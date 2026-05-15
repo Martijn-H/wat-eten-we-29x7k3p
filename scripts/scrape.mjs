@@ -2,7 +2,7 @@
 // Writes ../data/recipes.json relative to this file.
 // Node 20+ (built-in fetch). Only external dep: cheerio.
 
-import { writeFileSync, mkdirSync } from "node:fs";
+import { writeFileSync, readFileSync, existsSync, mkdirSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import * as cheerio from "cheerio";
@@ -10,9 +10,11 @@ import * as cheerio from "cheerio";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = resolve(__dirname, "..", "data", "recipes.json");
 
-const UA = "Mozilla/5.0 (compatible; WatEtenWeBot/1.0; +https://github.com)";
+// Look like a real Chrome — some sites 403 generic bots.
+const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 const PER_SOURCE_CAP = 25;
-const FETCH_TIMEOUT_MS = 20_000;
+const FETCH_TIMEOUT_MS = 25_000;
+const MAX_CANDIDATES_MULTIPLIER = 4; // fetch up to cap*4 pages, drop garbage post-hoc
 
 const MUSHROOM_TERMS = ["champignon","paddenstoel","mushroom","shiitake","oesterzwam","portobello","kastanjechampignon"];
 
@@ -23,8 +25,16 @@ async function fetchText(url) {
     const r = await fetch(url, {
       headers: {
         "User-Agent": UA,
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "nl-BE,nl;q=0.9,en;q=0.7",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "nl-BE,nl;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1",
       },
       signal: ctrl.signal,
       redirect: "follow",
@@ -38,7 +48,6 @@ async function fetchText(url) {
   }
 }
 
-// Flatten JSON-LD: expand @graph and recurse into ItemList.itemListElement
 function flattenLd(node, out) {
   if (!node || typeof node !== "object") return;
   if (Array.isArray(node)) { node.forEach(n => flattenLd(n, out)); return; }
@@ -71,7 +80,6 @@ function findRecipeNodes(jsonld) {
   return jsonld.filter(isRecipeNode);
 }
 
-// OG / meta fallbacks — used when JSON-LD is missing a field
 function extractOg($) {
   const pick = (sel) => {
     const v = $(sel).attr("content");
@@ -155,7 +163,6 @@ function detectContains(ingredientsLc) {
 }
 
 function pickImage(node, og) {
-  // 1. JSON-LD image (string / array / object)
   if (typeof node.image === "string") return node.image;
   if (Array.isArray(node.image)) {
     const first = node.image[0];
@@ -163,7 +170,6 @@ function pickImage(node, og) {
     if (first && typeof first === "object" && first.url) return first.url;
   }
   if (node.image && typeof node.image === "object" && node.image.url) return node.image.url;
-  // 2. OG fallback
   if (og && og.image) return og.image;
   return null;
 }
@@ -183,7 +189,6 @@ function recipeFromJsonLd(node, og, sourceLabel, fallbackUrl, sourceId, idx) {
   if (!name && og && og.title) name = og.title.trim();
   if (!name) return null;
 
-  // URL: prefer node-level mainEntityOfPage / url, then canonical, then fallback
   let url = fallbackUrl;
   if (typeof node.mainEntityOfPage === "string") url = node.mainEntityOfPage;
   else if (node.mainEntityOfPage && typeof node.mainEntityOfPage === "object" && node.mainEntityOfPage["@id"]) url = node.mainEntityOfPage["@id"];
@@ -228,7 +233,6 @@ function recipeFromJsonLd(node, og, sourceLabel, fallbackUrl, sourceId, idx) {
   };
 }
 
-// Discover recipe URLs from a sitemap-style URL list or a category page.
 async function discoverUrls(html, baseUrl, urlFilter, max) {
   const out = new Set();
   if (!html) return [...out];
@@ -239,11 +243,29 @@ async function discoverUrls(html, baseUrl, urlFilter, max) {
     if (urlFilter(u)) out.add(u);
     if (out.size >= max) break;
   }
+  // nested sitemap indexes: if the sitemap only contained sub-sitemap URLs,
+  // recurse one level so we can still discover recipe URLs.
+  if (out.size === 0) {
+    const subSitemaps = locMatches
+      .map(m => m.replace(/<\/?loc>/gi, "").trim())
+      .filter(u => /sitemap.*\.xml/i.test(u))
+      .slice(0, 8);
+    for (const sm of subSitemaps) {
+      if (out.size >= max) break;
+      const subXml = await fetchText(sm);
+      if (!subXml) continue;
+      const subLocs = subXml.match(/<loc>([^<]+)<\/loc>/gi) || [];
+      for (const m of subLocs) {
+        const u = m.replace(/<\/?loc>/gi, "").trim();
+        if (urlFilter(u)) out.add(u);
+        if (out.size >= max) break;
+      }
+    }
+  }
   if (out.size < max) {
     const $ = cheerio.load(html);
     $("a[href]").each((_, el) => {
       let href = $(el).attr("href"); if (!href) return;
-      // Strip query strings and fragments for dedup
       try {
         if (href.startsWith("/")) href = new URL(href, baseUrl).toString();
         if (!href.startsWith("http")) return;
@@ -258,7 +280,6 @@ async function discoverUrls(html, baseUrl, urlFilter, max) {
   return [...out];
 }
 
-// Decide if a recipe has enough usable data to keep.
 function isUseful(r) {
   if (!r || !r.name) return false;
   if (r.image) return true;
@@ -270,46 +291,45 @@ function isUseful(r) {
 async function scrapeSource({ sourceLabel, sourceId, seedUrls, urlFilter, sitemapUrls = [], cap = PER_SOURCE_CAP }) {
   console.log(`\n=== ${sourceLabel} ===`);
   const urls = new Set();
+  const wantedCandidates = cap * MAX_CANDIDATES_MULTIPLIER;
 
   for (const sm of sitemapUrls) {
     const xml = await fetchText(sm);
     if (!xml) { console.log(`  sitemap ${sm} -> empty`); continue; }
-    const discovered = await discoverUrls(xml, sm, urlFilter, cap * 3);
+    const discovered = await discoverUrls(xml, sm, urlFilter, wantedCandidates);
     discovered.forEach(u => urls.add(u));
-    console.log(`  sitemap ${sm} -> ${discovered.length}`);
-    if (urls.size >= cap * 3) break;
+    console.log(`  sitemap ${sm} -> ${discovered.length} candidates`);
+    if (urls.size >= wantedCandidates) break;
   }
   if (urls.size < cap) {
     for (const seed of seedUrls) {
       const html = await fetchText(seed);
       if (!html) { console.log(`  seed ${seed} -> empty`); continue; }
-      const discovered = await discoverUrls(html, seed, urlFilter, cap * 3);
+      const discovered = await discoverUrls(html, seed, urlFilter, wantedCandidates);
       discovered.forEach(u => urls.add(u));
-      console.log(`  seed ${seed} -> ${discovered.length}`);
-      if (urls.size >= cap * 3) break;
+      console.log(`  seed ${seed} -> ${discovered.length} candidates`);
+      if (urls.size >= wantedCandidates) break;
     }
   }
 
-  const recipeUrls = [...urls].slice(0, cap * 2); // fetch a few extra in case some are unusable
-  console.log(`  Will fetch ${recipeUrls.length} recipe pages`);
+  const recipeUrls = [...urls].slice(0, wantedCandidates);
+  console.log(`  Will fetch ${recipeUrls.length} candidate pages`);
 
   const out = [];
   let idx = 1;
   for (const url of recipeUrls) {
     if (out.length >= cap) break;
     const html = await fetchText(url);
-    if (!html) { console.log(`  skip (no html): ${url}`); continue; }
+    if (!html) continue;
     const $ = cheerio.load(html);
     const og = extractOg($);
     const ld = extractJsonLd(html);
     const recipeNodes = findRecipeNodes(ld);
-    if (!recipeNodes.length) { console.log(`  skip (no Recipe JSON-LD): ${url}`); continue; }
-    // Most pages have a single Recipe; use first. If a listing page slips through and has many,
-    // take up to a few but typical recipe pages are 1:1.
+    if (!recipeNodes.length) continue;
     for (const node of recipeNodes.slice(0, 1)) {
       const built = recipeFromJsonLd(node, og, sourceLabel, url, sourceId, idx);
       if (!built) continue;
-      if (!isUseful(built)) { console.log(`  drop (no useful data): ${built.name}`); continue; }
+      if (!isUseful(built)) continue;
       out.push(built);
       idx++;
       if (out.length >= cap) break;
@@ -319,63 +339,123 @@ async function scrapeSource({ sourceLabel, sourceId, seedUrls, urlFilter, sitema
   return out;
 }
 
-// Stricter URL filters — must look like a specific recipe page, not an index/category page.
+// URL patterns verified against actual recipe pages (recipe-scrapers v15.11.0
+// supported-sites registry + cached page bodies, May 2026).
+// HelloFresh / Foodbag / Foodprepper dropped — see report.
 const SOURCES = [
   {
+    // /gerechten/<slug>  e.g. /gerechten/vol-au-vent
     sourceLabel: "Dagelijkse Kost",
     sourceId: "dk",
-    sitemapUrls: ["https://dagelijksekost.vrt.be/sitemap.xml"],
-    seedUrls: ["https://dagelijksekost.vrt.be/gerechten"],
-    // Recipe pages live under /gerecht/<slug> — require a slug segment after /gerecht/
-    urlFilter: u => /dagelijksekost\.vrt\.be\/gerecht\/[^/?#]+/.test(u),
+    sitemapUrls: [
+      "https://dagelijksekost.vrt.be/sitemap.xml",
+      "https://dagelijksekost.vrt.be/sitemap_index.xml",
+    ],
+    seedUrls: [
+      "https://dagelijksekost.vrt.be/gerechten",
+      "https://dagelijksekost.vrt.be/",
+    ],
+    urlFilter: u => /^https?:\/\/(www\.)?dagelijksekost\.vrt\.be\/gerechten\/[^/?#]+/i.test(u),
   },
   {
+    // /allerhande/recept/R-R<id>/<slug>
     sourceLabel: "AH Allerhande",
     sourceId: "ah",
-    sitemapUrls: ["https://www.ah.nl/allerhande/sitemap.xml", "https://www.ah.nl/allerhande/sitemap-recipes.xml"],
-    seedUrls: ["https://www.ah.nl/allerhande/recepten/snelle-recepten", "https://www.ah.nl/allerhande/recepten/pasta"],
-    // /allerhande/recept/Rxxx-slug — require an R-id after /recept/
-    urlFilter: u => /ah\.nl\/allerhande\/recept\/R\d+/.test(u),
+    sitemapUrls: [
+      "https://www.ah.nl/sitemaps/entities/recipes/detail.xml",
+      "https://www.ah.nl/allerhande/sitemap.xml",
+    ],
+    seedUrls: [
+      "https://www.ah.nl/allerhande/recepten-zoeken",
+      "https://www.ah.nl/allerhande/recepten/snelle-recepten",
+      "https://www.ah.nl/allerhande/recepten/pasta",
+    ],
+    urlFilter: u => /^https?:\/\/(www\.)?ah\.nl\/allerhande\/recept\/R[-_]?R?\d+/i.test(u),
   },
   {
+    // /bekijk-recept/<id>/<slug>  e.g. /bekijk-recept/11733/klassieke-quiche-lorraine-1
     sourceLabel: "Libelle Lekker",
     sourceId: "lib",
-    sitemapUrls: ["https://www.libelle-lekker.be/sitemap.xml"],
-    seedUrls: ["https://www.libelle-lekker.be/koken/recepten"],
-    // /koken/recept/<slug>
-    urlFilter: u => /libelle-lekker\.be\/koken\/recept\/[^/?#]+/.test(u),
+    sitemapUrls: [
+      "https://www.libelle-lekker.be/sitemap.xml",
+      "https://www.libelle-lekker.be/sitemap_index.xml",
+    ],
+    seedUrls: [
+      "https://www.libelle-lekker.be/koken/recepten",
+      "https://www.libelle-lekker.be/",
+    ],
+    urlFilter: u => /^https?:\/\/(www\.)?libelle-lekker\.be\/bekijk-recept\/\d+\/[^/?#]+/i.test(u),
   },
   {
-    sourceLabel: "HelloFresh BE",
-    sourceId: "hf",
-    sitemapUrls: ["https://www.hellofresh.be/sitemap-recipe-pages.xml", "https://www.hellofresh.be/sitemap.xml"],
-    seedUrls: ["https://www.hellofresh.be/recipes/recipe-archive"],
-    // /recipes/<slug>-<id> — require something AFTER /recipes/, not the index itself
-    urlFilter: u => /hellofresh\.be\/recipes\/[^/?#]+/.test(u) && !/recipe-archive/.test(u),
-  },
-  {
-    sourceLabel: "Foodbag",
-    sourceId: "fb",
-    sitemapUrls: ["https://foodbag.be/sitemap.xml"],
-    seedUrls: ["https://foodbag.be/recepten"],
-    // /recept/<slug> or /recepten/<slug>-<id> — require a slug
-    urlFilter: u => /foodbag\.be\/(recepten|recept)\/[^/?#]+/.test(u),
-  },
-  {
-    sourceLabel: "Foodprepper",
-    sourceId: "fp",
-    sitemapUrls: ["https://foodprepper.be/sitemap.xml"],
-    seedUrls: ["https://foodprepper.be/menu"],
-    urlFilter: u => /foodprepper\.be\/(recept|menu)\/[^/?#]+/.test(u),
-  },
-  {
+    // /menu/<id>-<slug>  (per-recipe detail under the menu namespace)
     sourceLabel: "Marley Spoon BE",
     sourceId: "ms",
-    sitemapUrls: ["https://marleyspoon.be/sitemap.xml"],
-    seedUrls: ["https://marleyspoon.be/menu"],
-    urlFilter: u => /marleyspoon\.be\/recipes?\/[^/?#]+/.test(u),
+    sitemapUrls: [
+      "https://marleyspoon.be/sitemap.xml",
+      "https://marleyspoon.be/sitemap_index.xml",
+    ],
+    seedUrls: [
+      "https://marleyspoon.be/menu",
+      "https://marleyspoon.be/",
+    ],
+    urlFilter: u => /^https?:\/\/(www\.)?marleyspoon\.be\/menu\/\d+[-/][^/?#]+/i.test(u),
+  },
+  {
+    // /recepten/<slug>
+    sourceLabel: "24Kitchen",
+    sourceId: "tfk",
+    sitemapUrls: [
+      "https://www.24kitchen.nl/sitemap.xml",
+      "https://www.24kitchen.nl/sitemap_index.xml",
+      "https://www.24kitchen.nl/sitemap-recipes.xml",
+    ],
+    seedUrls: [
+      "https://www.24kitchen.nl/recepten",
+      "https://www.24kitchen.nl/",
+    ],
+    urlFilter: u => /^https?:\/\/(www\.)?24kitchen\.nl\/recepten\/[^/?#]+/i.test(u),
+  },
+  {
+    // /recept/<slug>
+    sourceLabel: "15gram",
+    sourceId: "fg",
+    sitemapUrls: [
+      "https://15gram.be/sitemap.xml",
+      "https://15gram.be/sitemap_index.xml",
+      "https://www.15gram.be/sitemap.xml",
+    ],
+    seedUrls: [
+      "https://15gram.be/recepten",
+      "https://15gram.be/",
+    ],
+    urlFilter: u => /^https?:\/\/(www\.)?15gram\.be\/recept\/[^/?#]+/i.test(u),
+  },
+  {
+    // /recepten/<slug>
+    sourceLabel: "Leuke Recepten",
+    sourceId: "lr",
+    sitemapUrls: [
+      "https://www.leukerecepten.nl/sitemap_index.xml",
+      "https://www.leukerecepten.nl/sitemap.xml",
+      "https://www.leukerecepten.nl/post-sitemap.xml",
+    ],
+    seedUrls: [
+      "https://www.leukerecepten.nl/recepten/",
+      "https://www.leukerecepten.nl/",
+    ],
+    urlFilter: u => /^https?:\/\/(www\.)?leukerecepten\.nl\/recepten\/[^/?#]+/i.test(u),
   },
 ];
+
+function loadExisting() {
+  if (!existsSync(OUT)) return null;
+  try {
+    const txt = readFileSync(OUT, "utf8");
+    const d = JSON.parse(txt);
+    if (d && Array.isArray(d.recipes) && d.recipes.length) return d;
+  } catch (_) {}
+  return null;
+}
 
 async function main() {
   const allRecipes = [];
@@ -392,6 +472,15 @@ async function main() {
   const withImage = allRecipes.filter(r => r.image).length;
   const withIngredients = allRecipes.filter(r => (r.ingredients||[]).length).length;
   console.log(`  with image: ${withImage} | with ingredients: ${withIngredients}`);
+
+  // Safety net: if a run returns nothing, keep whatever we had before.
+  if (allRecipes.length === 0) {
+    const prior = loadExisting();
+    if (prior) {
+      console.log("Scrape returned 0 recipes — keeping prior data/recipes.json intact.");
+      return;
+    }
+  }
 
   mkdirSync(dirname(OUT), { recursive: true });
   writeFileSync(OUT, JSON.stringify({
