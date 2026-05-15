@@ -1,4 +1,5786 @@
 {
-  "generated_at": "",
-  "recipes": []
+  "generated_at": "2026-05-15",
+  "recipes": [
+    {
+      "id": "dk-001",
+      "source": "Dagelijkse Kost",
+      "name": "Jeroen Meus maakt pad khee mao, Thaise drunken noodles met brede rijstnoedels, groenten en pittige saus.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/pad-khee-mao-drunken-noodles",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/0JWPy2b75W2CM631nKhF/1778248350839_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=UJ7M%2B9clDxGE4APRjn4OWgM%2BLT2OaRmb3X4MHC8nU379lZFtvSSD%2FnS%2FnePzKczkvjDNysFdGsHfz2oxyTl5qgb3l1aD0KRoclVaFXROhwQY36zWqLS%2B3CAPukfwZlHP16rMrN%2B3Cv27rRuy8%2FN0fhQrLPqG2NfpixHqpOr41%2BWzV00iUxn0wqXn4VOEhdg5ZrA3qb%2B5tSNS6NullB%2BB3d1RhX%2BYPIzBvNUvauPFPh8JLTfXcFssY0VP0VaapnrLxhiAMl9gn1XGTAi2iCPg4TXmIKxFuyUDgOZcq6KExvyOAl%2B5ZMUrymKmF6N2d7vNXsvGof9Uk3Zh3x%2FZMZAH1Q%3D%3D",
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Snel & simpel",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Aziatisch"
+      ],
+      "dietary": [],
+      "cuisine": "Asian",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "rijstnoedels",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "uien",
+          "quantity": "2"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "2"
+        },
+        {
+          "name": "gember",
+          "quantity": "30 gram"
+        },
+        {
+          "name": "rode chilipeper",
+          "quantity": "1"
+        },
+        {
+          "name": "vissaus",
+          "quantity": ""
+        },
+        {
+          "name": "pelé royale",
+          "quantity": "400 gram"
+        },
+        {
+          "name": "bosje lente-ui",
+          "quantity": "1"
+        },
+        {
+          "name": "bosje holy basilicum",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel oestersaus",
+          "quantity": "4"
+        },
+        {
+          "name": "eetlepel ketjap manis",
+          "quantity": "3"
+        },
+        {
+          "name": "eetlepel sojasaus",
+          "quantity": "3"
+        },
+        {
+          "name": "eetlepel bruine suiker",
+          "quantity": "2"
+        },
+        {
+          "name": "water",
+          "quantity": ""
+        },
+        {
+          "name": "theelepel maïzena",
+          "quantity": "1"
+        },
+        {
+          "name": "limoen",
+          "quantity": "1"
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        }
+      ],
+      "description": "Jeroen Meus maakt pad khee mao, Thaise drunken noodles met brede rijstnoedels, groenten en pittige saus."
+    },
+    {
+      "id": "dk-002",
+      "source": "Dagelijkse Kost",
+      "name": "Kip in romige tomatensaus van Jeroen Meus met gebakken aardappelen en sla.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/kip-in-romige-tomatensaus-met-gebakken-aardappelen-en-sla",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/V8EGNuSoomGZkjsLxRmR/1778248327072_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=qW0QzcI7%2BsZ4K%2FXmns3CXl8%2BCxdlSJ7yrO9V4A33SvPD962dQcpmz9QnqUc8CiTUQJueIORGvw5kZyDu%2FpoqwpL9Ltg25v8wZU2cavLIjJog5zW3gljPkqrT9L2yF4XlpAi69HmbNDarpp3VwzL8XOz%2BM6A792itJ6T46prs4C6B8Us0fw%2FvZaCKCYlpm%2B9yuUq9TgC8ZTvu%2FzRvGY6eplLwZIyo0G9BQ6XjHS5D6p1r5sh8oEJIUTaL5GL09s6rB6E6AwwrJjPG1SQ6uDzDVcu9J4YXE9PFwJtVxJHRGBvtF6SBx4mYDFBYfF7U%2BxnSua8JsF4Mk%2BmZuklSGP6Wvw%3D%3D",
+      "cook_time_min": 45,
+      "servings": 4,
+      "tags": [
+        "Comfortfood",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Mediterraans"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "kippendijen",
+          "quantity": "600 gram"
+        },
+        {
+          "name": "kippenkruiden",
+          "quantity": ""
+        },
+        {
+          "name": "sjalotten",
+          "quantity": "5"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "2"
+        },
+        {
+          "name": "tomaten",
+          "quantity": "3"
+        },
+        {
+          "name": "eetlepel tomatenpuree",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter witte wijn",
+          "quantity": "1"
+        },
+        {
+          "name": "tijm",
+          "quantity": ""
+        },
+        {
+          "name": "gepelde tomaten",
+          "quantity": "1 blik"
+        },
+        {
+          "name": "chiliflakes",
+          "quantity": ""
+        },
+        {
+          "name": "kruidenkaas",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "verse dragon",
+          "quantity": ""
+        },
+        {
+          "name": "loskokende aardappelen",
+          "quantity": "800 gram"
+        },
+        {
+          "name": "kipkruiden",
+          "quantity": ""
+        },
+        {
+          "name": "romeinse sla",
+          "quantity": "1"
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "rozemarijn",
+          "quantity": ""
+        },
+        {
+          "name": "gedroogde oregano",
+          "quantity": ""
+        },
+        {
+          "name": "paprikapoeder",
+          "quantity": ""
+        },
+        {
+          "name": "lookpoeder",
+          "quantity": ""
+        },
+        {
+          "name": "dragonazijn",
+          "quantity": ""
+        }
+      ],
+      "description": "Kip in romige tomatensaus van Jeroen Meus met gebakken aardappelen en sla."
+    },
+    {
+      "id": "dk-003",
+      "source": "Dagelijkse Kost",
+      "name": "Bavarois van banaan van Jeroen Meus met karamelsaus en geroosterde pinda's.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/bavarois-van-banaan-met-karamelsaus-en-geroosterde-pindas",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/tcSdGsPM8FCPDj65f8i3/1778248090366_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=RQsNhPLqYS5HjBJOnP%2F8t%2FiNpGTmcD0aKHMtDghts2yjq5QfOpXK6gOIGBeEzpnfrQnJSTR2PzFgqMEwP1bVY4WYeELKWVoZKngXsaUcuPKknGB46fkF4mCnYN5mrM3aohpxvs1844eUivGCoauhqnRaeZ8DKxjg1ELmEPPi3vOU2jIC%2FDLSffUt8MSwGgJSKCx%2F23WmJOGdIeaWV57f5r%2F24ht%2Bcm0%2FCxQJfijr0u7RaCCE54LQVg8FykoGqU1Cvqoy%2FhIgNw7TOxFDy%2BHSgBGxxgewG9GMYgTpjn8KcVI1eplQvY1f%2FTGfRmHmzAHtutulc4YCy9smdLNhXE5E9w%3D%3D",
+      "cook_time_min": 35,
+      "servings": 4,
+      "tags": [
+        "Zoet",
+        "Dessert",
+        "Dessert"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "peanut"
+      ],
+      "ingredients": [
+        {
+          "name": "blaadjes gelatine",
+          "quantity": "6"
+        },
+        {
+          "name": "bananen",
+          "quantity": "3"
+        },
+        {
+          "name": "deciliter yoghurt",
+          "quantity": "2"
+        },
+        {
+          "name": "deciliter melk",
+          "quantity": "1"
+        },
+        {
+          "name": "vanillestokje",
+          "quantity": "1"
+        },
+        {
+          "name": "bananenlikeur",
+          "quantity": ""
+        },
+        {
+          "name": "deciliter room",
+          "quantity": "4"
+        },
+        {
+          "name": "eierdooiers",
+          "quantity": "5"
+        },
+        {
+          "name": "suiker",
+          "quantity": "225 gram"
+        },
+        {
+          "name": "water",
+          "quantity": ""
+        },
+        {
+          "name": "boter",
+          "quantity": "70 gram"
+        },
+        {
+          "name": "theelepel grof zout",
+          "quantity": "1"
+        },
+        {
+          "name": "pinda's",
+          "quantity": ""
+        },
+        {
+          "name": "chocoladeschilfers",
+          "quantity": "50 gram"
+        }
+      ],
+      "description": "Bavarois van banaan van Jeroen Meus met karamelsaus en geroosterde pinda's."
+    },
+    {
+      "id": "dk-004",
+      "source": "Dagelijkse Kost",
+      "name": "Schelvisschnitzel van Jeroen Meus met gepaneerde schelvisfilet, venkelcoleslaw en vastkookaardappelen.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/schelvis-schnitzel-met-venkelcoleslaw-en-vastkookaardappelen",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/Dju1Qyw6S34yVvYD6tX7/1778248300314_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=idDG8FkVrfZAeDjwDBs9znXodF8nkjGVGz8jiJlH%2B2bbgnaPGmXKjlPxgpRrajFor7l0pgzJl8yHKaOWBlKxgu0OAAJxlCz1oINhsb09X7LzoGqGcxA810Lgxu40jP9nyz63JpzXiT6uZPe9qDZEIPvZyaa9xkK2FhNHCOu2hk%2B4dRluZh2YWrET1S6G4GtWfaZaZoW0oRykDCd9CCfgm5Xr8czAQuzHVCFB6Nb4LkeyQhOUP08iZG%2B0Ethf7zn%2BVa8QhBGDvuSd8BARxr%2FZey9bdvsSlKYyBvKrVlqmJZ6uOcuDCiyAcIt0Co%2BNJSG%2FV6zPwFAi5PI5BUxFE1TOMw%3D%3D",
+      "cook_time_min": 40,
+      "servings": 4,
+      "tags": [
+        "Vis",
+        "Comfortfood",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Belgisch"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "schelvis",
+          "quantity": "600 gram"
+        },
+        {
+          "name": "bloem",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "eieren",
+          "quantity": "2"
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "panko",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "ratte du touquet aardappelen",
+          "quantity": "600 gram"
+        },
+        {
+          "name": "venkels",
+          "quantity": "0,5"
+        },
+        {
+          "name": "bosje radijs",
+          "quantity": "1"
+        },
+        {
+          "name": "ijsbergsla",
+          "quantity": "0,25"
+        },
+        {
+          "name": "appels",
+          "quantity": "0,5"
+        },
+        {
+          "name": "rode uien",
+          "quantity": "0,5"
+        },
+        {
+          "name": "citroen",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel mayonaise",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel griekse yoghurt",
+          "quantity": "2"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "0,5"
+        },
+        {
+          "name": "peterselie",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "dille",
+          "quantity": ""
+        }
+      ],
+      "description": "Schelvisschnitzel van Jeroen Meus met gepaneerde schelvisfilet, venkelcoleslaw en vastkookaardappelen."
+    },
+    {
+      "id": "dk-005",
+      "source": "Dagelijkse Kost",
+      "name": "Aardappelballetjes gevuld met scamorza van Jeroen Meus met botersaus van salie en broccolini.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/aardappelballetjes-gevuld-met-scamorza-botersaus-met-salie-en-broccolini",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/HgrS9GVGTYySTZM5EXcH/1778248265682_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=TXq97%2BPMqgh3c2hqfhTfxNl6fEEiaM3WCKdKBcivzgrexW8bW11MNHFDs%2FCrh4cb5LkZ29LMw1l24spe9UT7GkNXES8GUqGPbMlEz%2FDU6qNnBs0tyja%2BkKlaMOPdYlSTP3J8fdQ8LvFrQtGiYbV3CL2rABcNcInUd%2BSfMZ8xi43xeP96gwBp1pZYCagwG2HXZ6JW9wjP6gk9xNieW1Ejecyp9WZaznfc4OCaYQKbQxGCQNhCCdLLh%2FINU2TcLAn3vlYcEQBRP%2BD0dwVEh0GpEyv8yJ91yxcT%2BrCWmFbf837brrURnzUGsnRjyoTCNeK2VGzzFt7ROsZJ7taBmZHOxw%3D%3D",
+      "cook_time_min": 55,
+      "servings": 4,
+      "tags": [
+        "Comfortfood",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Italiaans"
+      ],
+      "dietary": [],
+      "cuisine": "Italian",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "loskokende aardappelen",
+          "quantity": "500 gram"
+        },
+        {
+          "name": "scamorza",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "eierdooier",
+          "quantity": "1"
+        },
+        {
+          "name": "bloem",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "boter",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "salie",
+          "quantity": ""
+        },
+        {
+          "name": "citroensap",
+          "quantity": ""
+        },
+        {
+          "name": "broccolini",
+          "quantity": "1 pakje"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        }
+      ],
+      "description": "Aardappelballetjes gevuld met scamorza van Jeroen Meus met botersaus van salie en broccolini."
+    },
+    {
+      "id": "dk-006",
+      "source": "Dagelijkse Kost",
+      "name": "Chiffoncake van Jeroen Meus met verse aardbeien, slagroom en geroosterde amandelschilfers.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/chiffoncake-met-aardbeien-en-slagroom",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/1Gi60G9N2s5Wiibt2rXI/1778227102984_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=K%2B0lbMbKooURsfH1D4G4dZr4b%2FF2PlKBIcwagZA%2FFA1uC2vX0Zqg7b99albHIJHk0Scy8IHlJ4q62TmC5n0UhX9K1x9NCGTtmMwP5bkUQMF4ljXAiwuNsNkSgZUoTMx29%2Fpb6%2FSxq9i4wwDlHapiLSxRbD7H1Fbq5K7ssCkwP1zGwPIdyxusNrLcWJt75eMOghnr6DbevQBGLAy%2FOu6BBTASRGSE4fbAnWdL11Hl2O0%2BV625Pd4PDTB%2FmMrl7cTxOUIxw2Rc3e7HyOWoeooOcRuvO72VfFFCtpeakMn9rl2bT0EZhmAKkD0YAHlUUt4K37msxYt9pHn9CkTK5jC%2BSQ%3D%3D",
+      "cook_time_min": 65,
+      "servings": 4,
+      "tags": [
+        "Zoet",
+        "Zomer",
+        "Dessert",
+        "Dessert"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "eieren",
+          "quantity": "4"
+        },
+        {
+          "name": "suiker",
+          "quantity": "180 gram"
+        },
+        {
+          "name": "zonnebloemolie",
+          "quantity": "60 gram"
+        },
+        {
+          "name": "melk",
+          "quantity": "30 gram"
+        },
+        {
+          "name": "vanille-extract",
+          "quantity": ""
+        },
+        {
+          "name": "bloem",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "maïzena",
+          "quantity": "25 gram"
+        },
+        {
+          "name": "theelepel bakpoeder",
+          "quantity": "2"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepel kokosnootpoeder",
+          "quantity": "2"
+        },
+        {
+          "name": "citroenen",
+          "quantity": "0,5"
+        },
+        {
+          "name": "deciliter slagroom",
+          "quantity": "2"
+        },
+        {
+          "name": "bloemsuiker",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "vanillestokje",
+          "quantity": "1"
+        },
+        {
+          "name": "gr amandelschilfers",
+          "quantity": "50"
+        },
+        {
+          "name": "eetlepel bloemsuiker",
+          "quantity": "1"
+        },
+        {
+          "name": "bakje aardbeien",
+          "quantity": "1"
+        }
+      ],
+      "description": "Chiffoncake van Jeroen Meus met verse aardbeien, slagroom en geroosterde amandelschilfers."
+    },
+    {
+      "id": "dk-007",
+      "source": "Dagelijkse Kost",
+      "name": "Kabeljauw met aspergepuree van Jeroen Meus, gegaard in witte wijn en geserveerd met een Hollandaisesaus van daslook.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/kabeljauw-met-aspergepuree-en-hollandaise-met-daslook",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/tM6kksrvEVolVmIRUs5B/1777551862912_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=hMTK58FfHsyEgrmZ1fkXmTwZkzzXZv%2Bb8gbcUFRBpNCHwhUX9HKB5IRcFDoJnJs5q0srGhTHWMR1nIMpSejMR0d4KRrc1Fv1qaajD%2F2MZZzRVGLDPBabBSMzXwcEh4tpK6UIUy39X2r6ldhsyhGgqIPTUvawSh%2Bwk0XUlIMCBerA%2FDLV0CJIK%2FPLDNAzbGbcON%2BulHf6qfp88ZqCwcLolFUJEbQQWfqqKUVBmpWNVZRALfkGNARsDx7q0R%2F8JiDT%2FpwjKjm7b9MWnQN08XxiFTY8zWKwHSlNbu%2F7aghJPgB6%2BH5vrMozOLlfqoPBmvExICYVn948j%2BNXue5mxDSNog%3D%3D",
+      "cook_time_min": 55,
+      "servings": 4,
+      "tags": [
+        "Vis",
+        "Klassieker",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Belgisch"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "fish"
+      ],
+      "ingredients": [
+        {
+          "name": "kabeljauw",
+          "quantity": "600 gram"
+        },
+        {
+          "name": "witte asperges",
+          "quantity": "1 kg"
+        },
+        {
+          "name": "loskokende aardappelen",
+          "quantity": "800 gram"
+        },
+        {
+          "name": "eierdooiers",
+          "quantity": "4"
+        },
+        {
+          "name": "boter",
+          "quantity": ""
+        },
+        {
+          "name": "melk",
+          "quantity": ""
+        },
+        {
+          "name": "nootmuskaat",
+          "quantity": ""
+        },
+        {
+          "name": "dopjes water",
+          "quantity": "3"
+        },
+        {
+          "name": "citroensap",
+          "quantity": ""
+        },
+        {
+          "name": "theelepel mosterd",
+          "quantity": "1"
+        },
+        {
+          "name": "daslook",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "boter",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "witte wijn",
+          "quantity": ""
+        },
+        {
+          "name": "laurier",
+          "quantity": ""
+        },
+        {
+          "name": "tijm",
+          "quantity": ""
+        }
+      ],
+      "description": "Kabeljauw met aspergepuree van Jeroen Meus, gegaard in witte wijn en geserveerd met een Hollandaisesaus van daslook."
+    },
+    {
+      "id": "dk-008",
+      "source": "Dagelijkse Kost",
+      "name": "Gebraiseerde lamsnek van Jeroen Meus met graanmosterd en munt, geserveerd met tomatenbulgur met harissa en aubergines.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/gebraiseerde-lamsnek-met-mosterd-en-munt-en-tomatenbulgur-met-aubergines",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/y0aaYK9zFIQ1TAaQHCWM/1777551838946_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=K43mrmneLIZV4SrqAyLVa7DQ%2B8ikyXyG8zAQYX64QmBdt6qV6HGYX2P9nyh2%2BELmOLhkZpvE7Q4c3kqiNfDOESzDNDxyl4HUJZzwx7MaoRzS%2BKfQPAiLmwk6vJNDWruFo3ylAy1LchFtsjyUOmozabB1kFenyYk9Unog%2BYeMXAZ89XmPSgEVjLAeGFoB2mNGY3u%2FuNQEzUqFk3IJO323HuBynDuklJbvKH4%2FA07%2FFldIN87WJHHdTUh%2BBKeICEwLBc5eOhyLgeLgxnVhTItEBVswfEJiyMl%2FE8%2FkMQXYR523YNbc2VSKSKqj6vln2FxS6q%2B0nELQ8SYTNoze91ng3A%3D%3D",
+      "cook_time_min": 170,
+      "servings": 4,
+      "tags": [
+        "Stoofschotel",
+        "Vlees",
+        "Comfortfood",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Mediterraans"
+      ],
+      "dietary": [],
+      "cuisine": "Middle Eastern",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "lamsnek",
+          "quantity": "1 kg"
+        },
+        {
+          "name": "eetlepel graanmosterd",
+          "quantity": "3"
+        },
+        {
+          "name": "rozemarijn",
+          "quantity": ""
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "3"
+        },
+        {
+          "name": "eetlepel sojasaus",
+          "quantity": "4"
+        },
+        {
+          "name": "eetlepel engelse saus",
+          "quantity": "4"
+        },
+        {
+          "name": "trostomaten",
+          "quantity": "3"
+        },
+        {
+          "name": "sjalotten",
+          "quantity": "3"
+        },
+        {
+          "name": "bulgur",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "eetlepel harissa",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel tomatenpuree",
+          "quantity": "1"
+        },
+        {
+          "name": "aubergines",
+          "quantity": "2"
+        },
+        {
+          "name": "bakje kerstomaten",
+          "quantity": "1"
+        },
+        {
+          "name": "balsamico",
+          "quantity": ""
+        },
+        {
+          "name": "citroenen",
+          "quantity": "0,5"
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "platte peterselie",
+          "quantity": ""
+        },
+        {
+          "name": "munt",
+          "quantity": ""
+        }
+      ],
+      "description": "Gebraiseerde lamsnek van Jeroen Meus met graanmosterd en munt, geserveerd met tomatenbulgur met harissa en aubergines."
+    },
+    {
+      "id": "dk-009",
+      "source": "Dagelijkse Kost",
+      "name": "Bloemkool in zoetzure saus met groenten en rijst: krokant gebakken bloemkoolroosjes in een pittige saus van gember, look, sweet chili en appelazijn, met kleurrijke groenten en langkorrelrijst.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/bloemkool-in-zoetzure-saus-met-groenten-en-rijst",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/huoy0Rdd6G4NEGlfKTRT/1777551818190_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=O6LHff%2FqChwBrJg9JRl6YyvfPeAbhgtb5oA6KPLfys%2B1aRrDHCPVAm8%2BRlK5KfEROV3v2rstUyjTN01uDfJhATlUroWduzpUga5V%2F9j0xnFoZzQ6o1AHUb7zJITjtv2N3l85%2FhIUDKpZf837mY8GRjBPm%2FErqecrgpv3PSWMe0r6%2BVZCxAoYI%2Ftg6cU2Ybu4JgtKqlefucKXWzobzPusUSiJ00CrO4e8ao%2BqDQqpyHviUV1kidhXsIjvI4TPwNPbOoh3AZia9ypiE5xzy8X%2BwEUtcn0wKAJF%2BUYP6211nGDDB6mqEsXMkf5xnP74SZ7Liy7nQvJXq8VyZdjtbge%2FlQ%3D%3D",
+      "cook_time_min": 45,
+      "servings": 4,
+      "tags": [
+        "Vegetarisch",
+        "Rijst",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Aziatisch"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "cuisine": "Asian",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "bloemkool",
+          "quantity": "1"
+        },
+        {
+          "name": "bloem",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "maïzena",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "deciliter melk",
+          "quantity": "2,5"
+        },
+        {
+          "name": "lookpoeder",
+          "quantity": ""
+        },
+        {
+          "name": "spice poeder",
+          "quantity": "5"
+        },
+        {
+          "name": "ui",
+          "quantity": "1"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "2"
+        },
+        {
+          "name": "gember",
+          "quantity": "30 gram"
+        },
+        {
+          "name": "zoetpuntpaprika",
+          "quantity": "1"
+        },
+        {
+          "name": "sugar snaps",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "babymaïs",
+          "quantity": "1 pakje"
+        },
+        {
+          "name": "sojascheuten",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "eetlepel tomatenpuree",
+          "quantity": "2"
+        },
+        {
+          "name": "deciliter ketchup",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter zoete chilisaus",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter appelazijn",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter water",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel maïzena",
+          "quantity": "1"
+        },
+        {
+          "name": "langkorrelrijst",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "lente-uien",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        }
+      ],
+      "description": "Bloemkool in zoetzure saus met groenten en rijst: krokant gebakken bloemkoolroosjes in een pittige saus van gember, look, sweet chili en appelazijn, met kleurrijke groenten en langkorrelrijst."
+    },
+    {
+      "id": "dk-010",
+      "source": "Dagelijkse Kost",
+      "name": "Zalmballetjes van Jeroen Meus met avocadolabneh, kruidensalade en witkopradijsjes. Krokant van buiten, met gerookte en rauwe zalm.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/zalmballetjes-met-avocadolabneh-en-kruidensalade",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/zJiPP4y4GTs7dPR5TOMY/1777551774533_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=fB3uTmPgmBmAcMe6SEdGQQDw7OqBo7XljKEpmw8J10WoaVVwFEBpw7YIpYzQuWt%2FdhnG3lk7XlsjLQQ7rXQvRxhQlfiRcxi3DcxjCqyF5l24%2BRVnLzdBWXIT4Er8MuTURzt0%2F%2FnHTKUDdJxR643TAvPf1ucSD5zRVWyN6gGsHrmkUdyvnQWcfH2Q%2FKKOP9KtqzG1o4s4fc55G4PXRX9v%2F0TIMbGzf2J0zHfTvUDsKE8Pgjxf4LA6%2Faq%2FTx6pNJ6SyiPDdR4uepsEwmWLOnPc1jN7ILYCYglhIKLkKbHbjoHvrx7rFX9lxRLcUVpIt486wYMQromMmahTcEYL3Fo%2FCw%3D%3D",
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Vis",
+        "Snel & simpel",
+        "Hoofdgerecht",
+        "Lunch",
+        "Hoofdgerecht",
+        "Mediterraans"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "fish",
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "volle yoghurt",
+          "quantity": "500 gram"
+        },
+        {
+          "name": "limoen",
+          "quantity": "1"
+        },
+        {
+          "name": "sumak",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "0,5"
+        },
+        {
+          "name": "avocado",
+          "quantity": "1"
+        },
+        {
+          "name": "gerookte zalm",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "zalm",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "eetlepel graanmosterd",
+          "quantity": "1"
+        },
+        {
+          "name": "ei",
+          "quantity": "1"
+        },
+        {
+          "name": "paneermeel",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "dille",
+          "quantity": ""
+        },
+        {
+          "name": "panko",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "bussel radijzen",
+          "quantity": "0,5"
+        },
+        {
+          "name": "platte peterselie",
+          "quantity": ""
+        },
+        {
+          "name": "bussel rucola",
+          "quantity": "0,5"
+        },
+        {
+          "name": "azijn",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "za'atar",
+          "quantity": ""
+        },
+        {
+          "name": "bieslook",
+          "quantity": ""
+        },
+        {
+          "name": "tuinkers",
+          "quantity": ""
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "kervel",
+          "quantity": ""
+        }
+      ],
+      "description": "Zalmballetjes van Jeroen Meus met avocadolabneh, kruidensalade en witkopradijsjes. Krokant van buiten, met gerookte en rauwe zalm."
+    },
+    {
+      "id": "dk-011",
+      "source": "Dagelijkse Kost",
+      "name": "Jeroen Meus maakt loaded fries met langzaam gegaarde pulled chicken, gesmolten cheddar en een zelfgemaakte jalapeñomayo.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/loaded-fries-pulled-chicken-jalapenomaiyonaise",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/KwpncymgOT1LfPgVe5lI/1777032928361_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=bCQ16DusZx32GgyyIFByLlothYtV0RmRS0esrAe70hgJwDQPKEwLBRNBMEhFRAbo4tJqPj0VddwAc4dHinL5gQfE3qnjw%2FcAREJpS8Nfl9HncLx%2B2BfdMYsbIC1pWo7PKdxGq7nbVT%2BK%2FzSOC75CRvAWfoF6R5LEvv2hf2Dt29ZU0elHvSMbteHqs3FXkP1S9qkAev6EDx7%2F6WDEYZ4hLVCf%2FdK2wgETDXESkecyP1AY1E8glObmT6D87MqLUe9HZ%2Fh50uYJuAywS2N6SA2RRR0TCp5cQ3aR1J4d2m50gGOpB%2BUtRx22xdM1kBJxu%2FnVdKxOfVbgru7A4Gv9DAEERQ%3D%3D",
+      "cook_time_min": 180,
+      "servings": 4,
+      "tags": [
+        "Comfortfood",
+        "Gevogelte",
+        "Kindvriendelijk",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Amerikaans"
+      ],
+      "dietary": [
+        "family-friendly"
+      ],
+      "cuisine": "American",
+      "contains": [
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "kippenbillen",
+          "quantity": "2"
+        },
+        {
+          "name": "theelepel komijn",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepel gerookt paprikapoeder",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepel kippenkruiden",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepel korianderpoeder",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepel lookpoeder",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepel tijm",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel grof zout",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel bruine suiker",
+          "quantity": "1"
+        },
+        {
+          "name": "chiliflakes",
+          "quantity": ""
+        },
+        {
+          "name": "appelsap",
+          "quantity": ""
+        },
+        {
+          "name": "bourbon",
+          "quantity": ""
+        },
+        {
+          "name": "frietaardappelen",
+          "quantity": "800 gram"
+        },
+        {
+          "name": "geraspte cheddar",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "rode ui",
+          "quantity": "1"
+        },
+        {
+          "name": "xeresazijn",
+          "quantity": ""
+        },
+        {
+          "name": "rode paprika's",
+          "quantity": "0,5"
+        },
+        {
+          "name": "ijsbergsla",
+          "quantity": "0,5"
+        },
+        {
+          "name": "tomaat",
+          "quantity": "1"
+        },
+        {
+          "name": "koriander",
+          "quantity": ""
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "eierdooiers",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel  opgelegde jalapeño",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepel mosterd",
+          "quantity": "1"
+        },
+        {
+          "name": "water",
+          "quantity": ""
+        },
+        {
+          "name": "witte wijnazijn",
+          "quantity": ""
+        },
+        {
+          "name": "deciliter arachideolie",
+          "quantity": "2"
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "platte peterselie",
+          "quantity": ""
+        }
+      ],
+      "description": "Jeroen Meus maakt loaded fries met langzaam gegaarde pulled chicken, gesmolten cheddar en een zelfgemaakte jalapeñomayo."
+    },
+    {
+      "id": "dk-012",
+      "source": "Dagelijkse Kost",
+      "name": "Eton mess van Jeroen Meus met gebroken meringue, mascarponeroom met limoen en vanille, verse frambozen en een coulis met violettesiroop.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/eton-mess-frambozen-violette",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/oOs7rtp7RL7RY53iSvG0/1777032886759_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=Yabb7kWN%2FATPqpTqjYdIULpSzOKEVDrlU7c5ip7vqXG9yPyvdCnQQrNh6TVuG0YIiJOxS2U9ORuUTgwiHR%2FzsXHFX593gNyUyQ%2FGGIPS4dAe1xEEV4MSZSOwqlcHkFLqtA6Y%2Bis%2B%2FHBY9vbr5SqGixycZjp1rJfkVSesPlmAfa9VpIl8gsXjkYyku%2BfwpHZIODHQta1QhXBBjQq20OHYItBPsoaqkZ1cjrvttViu3s0VMHpAyTQmy6cb46Kj%2Ba%2F44NvKi6FkStRqERD35FnM%2BMVsIlN%2Bf5sssgJKGHLbNfAKCuWpvT0wLYAyB5EGGgRb3fg%2BxGDWnB06JJtvwaIsCQ%3D%3D",
+      "cook_time_min": 155,
+      "servings": 4,
+      "tags": [
+        "Zoet",
+        "Dessert",
+        "Dessert",
+        "Brits"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "eiwitten",
+          "quantity": "2"
+        },
+        {
+          "name": "suiker",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "diepvriesframbozen",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "water",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepel violette siroop",
+          "quantity": "2"
+        },
+        {
+          "name": "deciliter room",
+          "quantity": "2"
+        },
+        {
+          "name": "mascarpone",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "bloemsuiker",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "vanillestokje",
+          "quantity": "1"
+        },
+        {
+          "name": "limoenen",
+          "quantity": "0,5"
+        },
+        {
+          "name": "bakjes frambozen",
+          "quantity": "2"
+        }
+      ],
+      "description": "Eton mess van Jeroen Meus met gebroken meringue, mascarponeroom met limoen en vanille, verse frambozen en een coulis met violettesiroop."
+    },
+    {
+      "id": "dk-013",
+      "source": "Dagelijkse Kost",
+      "name": "Recept van Jeroen Meus: orecchiette met een saus van erwtjes en geitenkaas, afgewerkt met pecorino en een gremolata van peterselie en citroen.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/orecchiette-geitenkaas-erwtjes",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/REu59jvLobcMOEXxvlw5/1777032776141_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=nkA0VPmbAlJPij8HqZw2oxT4Ipfwxco2MfkAgS4017KspMwWDEJVe9uwfmfOP7bzUxSR14%2FRB%2FMKMEmaq0yyUJSsAY2BbhOPBsKf%2B%2F5n6CDPhKn1Shz5rkXnX98wmdM8jbDvbGSNpMFTmUL0hEzTmDG0u7nl0pCJ4z0gC%2B6plJnDhoYpKFnuZ3dnFwFPi6Y7y%2F6NLzjxeAerkiLZxu%2Fct%2FVX57TQCf2cJDSFC2ybEcFKIR3Xhr7LC2SNWyjFNhSEmILwSqpwD6N0rFc9pEIfror8fG2b6nZ1RbNVssD%2BxonSZ0rQvQ6DCqrzQxT2kz5CLO%2BBRFkJl1gqgnxFUqtZ3A%3D%3D",
+      "cook_time_min": 35,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "Vegetarisch",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Italiaans"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "cuisine": "Italian",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "orecchiette",
+          "quantity": "400 gram"
+        },
+        {
+          "name": "uien",
+          "quantity": "2"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "2,5"
+        },
+        {
+          "name": "doperwten",
+          "quantity": "400 gram"
+        },
+        {
+          "name": "tijm",
+          "quantity": ""
+        },
+        {
+          "name": "bonenkruid",
+          "quantity": ""
+        },
+        {
+          "name": "chiliflakes",
+          "quantity": ""
+        },
+        {
+          "name": "erwten",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "geitenkaas",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "pecorino",
+          "quantity": "75 gram"
+        },
+        {
+          "name": "nootmuskaat",
+          "quantity": ""
+        },
+        {
+          "name": "peterselie",
+          "quantity": ""
+        },
+        {
+          "name": "citroenen",
+          "quantity": "0,5"
+        },
+        {
+          "name": "rucola",
+          "quantity": ""
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "bicarbonaat",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        }
+      ],
+      "description": "Recept van Jeroen Meus: orecchiette met een saus van erwtjes en geitenkaas, afgewerkt met pecorino en een gremolata van peterselie en citroen."
+    },
+    {
+      "id": "dk-014",
+      "source": "Dagelijkse Kost",
+      "name": "Jeroen Meus maakt een goudbruin gebakken varkenskotelet met gebraiseerde jonge wortelen, aardappelpuree met tuinkers en een tijmsaus van rode wijn.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/kotelet-jonge-wortelen-puree-tuinkers-tijmsaus",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/wciyuPCWTI47kf4gM4lD/1777032814194_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=VSRwfLbNfmUohQPJoT9IEVapoWrfPYK6BaQ1%2BXzwVmIhZPwQbAyRKaKHPpw1ZwNRIgBSWX%2F2LX7JJZaz5UWzLgtlazQIfE5ZEMb68EiJkkqHxUgDwQVSdO0sXpAF6hMj1ojCTjmgGmrMLWy7qBODKQge9wdtxWs5srjU0O7a3h3NovT9y1i3YbhvTxJMg%2F2pMH98UAMczlT61KUcSQWE84VoD9q25q8Ugsf7I%2FK9su%2BUr4GHfzMOy4dJjOAGBbCxuVKVEDcMEnnbqDIPMrOwND8tQpcYAdldionIwRNgV%2ByDUK1jUS9%2Bwunm%2FOZqjb7ZyQaY7wJOQ0jRRbSeqfiMeA%3D%3D",
+      "cook_time_min": 60,
+      "servings": 4,
+      "tags": [
+        "Comfortfood",
+        "Vlees",
+        "Klassieker",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Belgisch"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "loskokende aardappelen",
+          "quantity": "800 gram"
+        },
+        {
+          "name": "bakjes tuinkers",
+          "quantity": "2"
+        },
+        {
+          "name": "boter",
+          "quantity": ""
+        },
+        {
+          "name": "scheutje melk",
+          "quantity": "1"
+        },
+        {
+          "name": "eierdooiers",
+          "quantity": "2"
+        },
+        {
+          "name": "snuifje nootmuskaat",
+          "quantity": "1"
+        },
+        {
+          "name": "bosje jonge wortelen",
+          "quantity": "1"
+        },
+        {
+          "name": "tijm",
+          "quantity": ""
+        },
+        {
+          "name": "varkenskoteletten",
+          "quantity": "4"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "2"
+        },
+        {
+          "name": "uien",
+          "quantity": "3"
+        },
+        {
+          "name": "verse tijm",
+          "quantity": ""
+        },
+        {
+          "name": "deciliter rode wijn",
+          "quantity": "2"
+        },
+        {
+          "name": "scheutje rode wijnazijn",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter bruine fond",
+          "quantity": "2"
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "rozemarijn",
+          "quantity": ""
+        },
+        {
+          "name": "laurier",
+          "quantity": ""
+        }
+      ],
+      "description": "Jeroen Meus maakt een goudbruin gebakken varkenskotelet met gebraiseerde jonge wortelen, aardappelpuree met tuinkers en een tijmsaus van rode wijn."
+    },
+    {
+      "id": "dk-015",
+      "source": "Dagelijkse Kost",
+      "name": "Roerei van Jeroen Meus met gepocheerde witte asperges, gerookte zalm en postelein, afgewerkt met mierikswortelpasta.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/roerei-asperges-gerookte-zalm",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/h2I1DtoU9wu8wMzmHYbu/1777032729999_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=b8mMK9Yc3RHp6%2FsY%2FNlbiD5IUeluvfuCe%2Fke8ZRMYDOyp%2FkoqlqMfyPO3l5peI91oeJzEoXyxhzlsygiMGkYn4H20Hw%2B4X8ZIyvTq27ft2SzCvi2uhJyjA9a%2BqNWv6k9iV0fcd%2B4%2BGVxYV2xdClCQg5YBYcqlZUkQmUxh2IQj4XTVqgX8H4gdlqHM7Gy5KtZNO9msNg46bxI6%2F%2Bnlm7iIyfyLbZMqBX3Ag4sCN7GTGFz%2FcjeBu5%2F7WnvgPEejEn7IBoOuqEkyGm30sIGRyvJ08QrVRXcmsibHvf8Xz9iAWVtC5h6usQpswX%2FzNCYyCT9%2BSPN5wqr1ieSVIOkmUJAqA%3D%3D",
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Snel & simpel",
+        "Vis",
+        "Hoofdgerecht",
+        "Ontbijt",
+        "Lunch",
+        "Hoofdgerecht",
+        "Belgisch"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "fish",
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "witte asperges",
+          "quantity": "500 gram"
+        },
+        {
+          "name": "postelein",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "gerookte zalm",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "eieren",
+          "quantity": "4"
+        },
+        {
+          "name": "boter",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "theelepel mierikswortel pasta",
+          "quantity": "2"
+        },
+        {
+          "name": "sjalot",
+          "quantity": "1"
+        },
+        {
+          "name": "bieslook",
+          "quantity": ""
+        },
+        {
+          "name": "citroensap",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        }
+      ],
+      "description": "Roerei van Jeroen Meus met gepocheerde witte asperges, gerookte zalm en postelein, afgewerkt met mierikswortelpasta."
+    },
+    {
+      "id": "dk-016",
+      "source": "Dagelijkse Kost",
+      "name": "Briochetaart van Jeroen Meus met vanillepudding, rozijnen en een luchtig gistdeeg, afgewerkt met abrikozengelei en citroenglazeruur.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/briochetaart",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/UAbEpFo47FPKzEb3llsU/1776433792227_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=PdzHPOkZPgRIBUrv9bNoM%2BhSVx%2FJ1vS%2B8Z%2FH7GP5e%2B8Z9Sm%2F5SqsMz9K5%2F0d%2BSIx16laMF9Z0y8kT3AYVTCcA%2FqQFldMGRkwiUeSGOY%2Budu7lZnu68Vc%2BKM0V%2BNVjLSOo4p6y06XWwVDNAHBhDmqX%2FsjkOOCs79YNdhz%2B26s9m9ieY0X4fE3CJXtuDK0PCLRiwR5CmTmTh4C95LjWvIU7nVJWLISrOjCVBuwF%2F4f7GXjR%2BanDOzqVUxly5IHH70Q%2B8XuMmK684WLVFKCS4tHSPca2wbYn4uNbO1s90DVEZeiLijRMdOL%2F6%2B3%2FLpo5t%2FB5t4YsyqeGuexURTq4nzC6Q%3D%3D",
+      "cook_time_min": 100,
+      "servings": 4,
+      "tags": [
+        "Zoet",
+        "Kindvriendelijk",
+        "Dessert",
+        "Dessert",
+        "Belgisch"
+      ],
+      "dietary": [
+        "family-friendly"
+      ],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "deciliter melk",
+          "quantity": "5"
+        },
+        {
+          "name": "vanillestokje",
+          "quantity": "1"
+        },
+        {
+          "name": "puddingpoeder",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "eierdooiers",
+          "quantity": "5"
+        },
+        {
+          "name": "suiker",
+          "quantity": "180 gram"
+        },
+        {
+          "name": "ei",
+          "quantity": "1"
+        },
+        {
+          "name": "bloem",
+          "quantity": "400 gram"
+        },
+        {
+          "name": "malse boter",
+          "quantity": "140 gram"
+        },
+        {
+          "name": "melk",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "verse gist",
+          "quantity": "1 pakje"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepel abrikozengelei",
+          "quantity": "3"
+        },
+        {
+          "name": "bruine suiker",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "rozijnen",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "bloemsuiker",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "citroenen",
+          "quantity": "0,5"
+        }
+      ],
+      "description": "Briochetaart van Jeroen Meus met vanillepudding, rozijnen en een luchtig gistdeeg, afgewerkt met abrikozengelei en citroenglazeruur."
+    },
+    {
+      "id": "dk-017",
+      "source": "Dagelijkse Kost",
+      "name": "Jeroen Meus maakt een rollade van konijn gevuld met spek en lever, met geroosterde aardappelen en een radicchiosalade met sinaasappel.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/rollade-van-konijn-met-geroosterde-aardappelen-en-radiccio-salade-met-sinaasappel",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/K17DmwvmMlIa9dvMBRya/1776432015652_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=QuO8gbYndGTvk4nX1phhdaFn2YLReJjNKA8piVzM6BCYlLebxXQmvPK%2BvYnEAytm8nWwcmqqPa7y8raQKyS%2ByTFBmr9QUv2WHuBsbFA3gpJMOqmGn0tBJ0iBl8zDI50gR460DhwXNoBEKCNMorGzcB69fBzo9mhxJ8qZvQIZOdA4TGunJaQKB5126JOQBU9%2F%2B0YJjBhaAIY7jKBacX7vR%2Fu2meWWHbbmW6dkYiBUB52nRcOhCjziz8RnjrM3JZGHdez5u4PTMcfE%2Br6Gz6fePjrbbYEWmhJWlTQwxLNCk8txbtBucu2Fd6L09W7F0WsFUCRkT2I2Ohns9icpzhBV3A%3D%3D",
+      "cook_time_min": 75,
+      "servings": 4,
+      "tags": [
+        "Vlees",
+        "Wild",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Belgisch"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "pork",
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "konijnenruggen",
+          "quantity": "2"
+        },
+        {
+          "name": "konijnenbout",
+          "quantity": "1"
+        },
+        {
+          "name": "konijnenlevers",
+          "quantity": "25 gram"
+        },
+        {
+          "name": "ongezouten spek",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "ei",
+          "quantity": "1"
+        },
+        {
+          "name": "salie",
+          "quantity": ""
+        },
+        {
+          "name": "vastkokende aardappelen",
+          "quantity": "800 gram"
+        },
+        {
+          "name": "deciliter olijfolie",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel grof zout",
+          "quantity": "1"
+        },
+        {
+          "name": "tijm",
+          "quantity": ""
+        },
+        {
+          "name": "roodlof",
+          "quantity": "1"
+        },
+        {
+          "name": "bussel waterkers",
+          "quantity": "1"
+        },
+        {
+          "name": "sjalot",
+          "quantity": "1"
+        },
+        {
+          "name": "sinaasappelen",
+          "quantity": "2"
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "boter",
+          "quantity": ""
+        },
+        {
+          "name": "look",
+          "quantity": ""
+        },
+        {
+          "name": "rozemarijn",
+          "quantity": ""
+        }
+      ],
+      "description": "Jeroen Meus maakt een rollade van konijn gevuld met spek en lever, met geroosterde aardappelen en een radicchiosalade met sinaasappel."
+    },
+    {
+      "id": "dk-018",
+      "source": "Dagelijkse Kost",
+      "name": "Salade met gegrilde asperges en Mortadella van Jeroen Meus, afgewerkt met een zelfgemaakte pesto van Oude Flandrien en pijnboompitten.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/salade-met-gegrilde-asperges-tomaat-mortadella-en-pesto-met-flandrien",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/5ZnEbpmgxWSx5sLslmHY/1776429920758_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=fKYwgrRWaYseAm2dH7GwpEsfvF1fyQMy3n7JJyzO3q8LN1nOulw834a%2FI%2BgoDb%2BCRAaGI9hJQxcVSSqllapl2a1eP5hDYSpVht7G3lLC0aY%2Fn3ufZSBPlcRjqCCCXATgDsVUX%2FRQiAzi65uOndt9Uxd9jb5lCve6LaE9h7qawUIq1x1wWnJtHYQMMVW2caEK4uyeCajvNlu6W6QJeSiZbfVOYmQKp29zhIwDfbaQ1UjHd94R6NcVQakg9fv4hTdJnzveUKSCvGZpNcwFJMpBz6VcPRp%2BLn8ppvvlzqQGIeG8GFWKtfYrI55BdXXGTT05CVH%2B4XlHYdF8X5R%2BnvJLLg%3D%3D",
+      "cook_time_min": 45,
+      "servings": 4,
+      "tags": [
+        "Salade",
+        "Zomer",
+        "Hoofdgerecht",
+        "Lunch",
+        "Hoofdgerecht",
+        "Belgisch"
+      ],
+      "dietary": [],
+      "cuisine": "Italian",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "bussel witte asperges",
+          "quantity": "1"
+        },
+        {
+          "name": "bakje kerstomaten",
+          "quantity": "1"
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "balsamicoazijn",
+          "quantity": ""
+        },
+        {
+          "name": "theelepel honing",
+          "quantity": "2"
+        },
+        {
+          "name": "gedroogde oregano",
+          "quantity": ""
+        },
+        {
+          "name": "focaccia",
+          "quantity": "140 gram"
+        },
+        {
+          "name": "mortadella",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "bussel basilicum",
+          "quantity": "1"
+        },
+        {
+          "name": "peterselie",
+          "quantity": ""
+        },
+        {
+          "name": "teentje look",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter olijfolie",
+          "quantity": "2"
+        },
+        {
+          "name": "flandrien oud",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "pijnboompitten",
+          "quantity": "70 gram"
+        },
+        {
+          "name": "rucola",
+          "quantity": "80 gram"
+        },
+        {
+          "name": "citroen citroen",
+          "quantity": "1"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        }
+      ],
+      "description": "Salade met gegrilde asperges en Mortadella van Jeroen Meus, afgewerkt met een zelfgemaakte pesto van Oude Flandrien en pijnboompitten."
+    },
+    {
+      "id": "dk-019",
+      "source": "Dagelijkse Kost",
+      "name": "Tempura van hondshaai van Jeroen Meus met een knapperige daikonsalade van gember en radijsjes en een mirindressing op basis van dashi en sojasaus.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/tempura-van-hondshaai-met-daikonsalade-en-mirindressing",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/v6b6BPaURB49IK7QApA4/1776427935836_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=nHgCH7Obu7KMLgBp2QlhlSIsHtCM4ZPZODus9nXcdtTFRg4BOVc9vIxgRyl4nlwctaioghjMwVVF4IgRm9EqJTMt1qetkhjv%2FEd%2BI51peE1ln0E2WznqM8TGBvdh%2F2U6K%2BaH%2ByjAlISZBWXZhHbP%2FLc%2FICWmQWsPxlkBLTaLKL%2F0e83bh%2F%2FNLaBAfc1TYKR7JemPT0Q5FvSd48Btxl4vZSGQO6t63C7rdnjtsLIf3FBFrXqcOiCK4CNn2Yzqm73K3v20Z7yBEbn1TsVu4WEyNia4LPKSegn5M5FNLOSj0gFFLxX7tR1l2u8%2BoMG9vvK1mBwCg9AMtiHOyPR%2FFnEBnw%3D%3D",
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Vis",
+        "Salade",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Japans"
+      ],
+      "dietary": [],
+      "cuisine": "Asian",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "hondshaai",
+          "quantity": "400 gram"
+        },
+        {
+          "name": "bloem",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "maïzena",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "deciliter water",
+          "quantity": "3,5"
+        },
+        {
+          "name": "eierdooier",
+          "quantity": "1"
+        },
+        {
+          "name": "ijsblokjes",
+          "quantity": ""
+        },
+        {
+          "name": "daikon",
+          "quantity": "300 gram"
+        },
+        {
+          "name": "gember",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "stengels lente-uien",
+          "quantity": "2"
+        },
+        {
+          "name": "radijzen",
+          "quantity": "4"
+        },
+        {
+          "name": "eetlepel mirin",
+          "quantity": "4"
+        },
+        {
+          "name": "eetlepel sojasaus",
+          "quantity": "4"
+        },
+        {
+          "name": "dashi-bouillon",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "bussel bieslook",
+          "quantity": "0,5"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        }
+      ],
+      "description": "Tempura van hondshaai van Jeroen Meus met een knapperige daikonsalade van gember en radijsjes en een mirindressing op basis van dashi en sojasaus."
+    },
+    {
+      "id": "dk-020",
+      "source": "Dagelijkse Kost",
+      "name": "Quinoa tabouleh van Jeroen Meus met gebakken Berloumi en een relish van rode paprika en chili op warm flatbread.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/quinoa-tabouleh-met-berloumi-en-relish-van-paprika-en-chili",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/Mis9F9eHwneparu4sB9v/1776426973142_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=KcrtFLzgAXZphIzHVpQ8kfGWbJ5ReWKaqstldY4IZab3k%2BVIpbYSb2xND3KN9gqjJk3N6hzc0yNUqxgFeA93ACXTcv%2BnsxXHyOWQnRyUSO%2FDOoVqLLU%2FMm9xil0jZb%2Fp6BYHsx%2F8n7ZV6t9vp6KqP1JzG%2FKVita7CyyQC9VaGvGkLtE%2Bz32qGZTu%2BuZDX9uJP%2FHc83Osw3yTbKv4DR4bk8yg0Dynd85btfNT6As%2BVlJgsQgSmsuNxFVIfXmW%2FUOCW1kpXuOvYwVHxrd0Li0Hez95pHmgU8UJWNQWIE1pHndzJrMFJT5Ac8r8pwBUvyH%2BWkS0gmZYgeklrDerYjrYcw%3D%3D",
+      "cook_time_min": 50,
+      "servings": 4,
+      "tags": [
+        "Salade",
+        "Vegetarisch",
+        "Zomer",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Mediterraans"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "flatbread",
+          "quantity": "4 stuks"
+        },
+        {
+          "name": "quinoa",
+          "quantity": "150 gram"
+        },
+        {
+          "name": "rode ui",
+          "quantity": "1"
+        },
+        {
+          "name": "platte peterselie",
+          "quantity": ""
+        },
+        {
+          "name": "stengels lente-uien",
+          "quantity": "4"
+        },
+        {
+          "name": "rucola",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "snackkomkommer",
+          "quantity": "4"
+        },
+        {
+          "name": "citroenen",
+          "quantity": "0,5"
+        },
+        {
+          "name": "scheutje olijfolie",
+          "quantity": "1"
+        },
+        {
+          "name": "berloumi",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "snuifje gedroogde oregano",
+          "quantity": "1"
+        },
+        {
+          "name": "rode paprika's",
+          "quantity": "2"
+        },
+        {
+          "name": "rode chilipeper",
+          "quantity": "1"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "2"
+        },
+        {
+          "name": "sjalotten",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel mosterdzaad",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel suiker",
+          "quantity": "3"
+        },
+        {
+          "name": "eetlepel xeresazijn",
+          "quantity": "8"
+        },
+        {
+          "name": "theelepel currypoeder",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepel kurkuma",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepel komijn",
+          "quantity": "1"
+        },
+        {
+          "name": "blaadjes laurier",
+          "quantity": "2"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "kerstomaten",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "olie met neutrale smaak",
+          "quantity": ""
+        },
+        {
+          "name": "munt",
+          "quantity": ""
+        }
+      ],
+      "description": "Quinoa tabouleh van Jeroen Meus met gebakken Berloumi en een relish van rode paprika en chili op warm flatbread."
+    },
+    {
+      "id": "dk-021",
+      "source": "Dagelijkse Kost",
+      "name": "Ontdek hoe Jeroen Meus een klassieke rosbief bereidt met romige béarnaisesaus, verse asperges en knapperige gebakken aardappelen. Dit feestelijke recept voor 4 personen is perfect voor een speciale gelegenheid.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/rosbief-met-bearnaise-asperges-en-gebakken-aardappelen",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/QxVqNk6hidnLTPxhuFPh/1775828602392_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=O2KI5F9qrPehAabe0PWLYY%2FDMLDT76LhDlyP%2FAW9E0C1g8WLqIlhUI%2F1lBPVuhGDtPenfX2F7KqNHAam7QNh46OBnFdQDNEnel6aZHbzuSF4hmI%2BUJxryMb2N%2BjuTvkDrWz30cBmyJBrJvWcvm%2B2uOBOsVV1M4IheJ78rzqZWFBligdyZAaGCNN8y6CKXfLG0XR2zRWnRkmFG9BUX2zfclQyBLBdkMxtZ4OiDr8Pa%2FrQDmWGNq7v8MVa2UMONYgOPgTTWK860LzSwDKjkv%2BW4vmZuHiTryi4NVl%2FXMfkdDIgdos7cUnfSoDYBHQ62Qc1LW%2Fc0dhaL5i%2FSUyDrm%2F%2BCw%3D%3D",
+      "cook_time_min": 80,
+      "servings": 4,
+      "tags": [
+        "Feest",
+        "Klassieker",
+        "Vlees",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Frans"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "rosbief",
+          "quantity": "800 gram"
+        },
+        {
+          "name": "uien",
+          "quantity": "2"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "3"
+        },
+        {
+          "name": "tijm",
+          "quantity": ""
+        },
+        {
+          "name": "deciliter water",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter witte wijn",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter dragonazijn",
+          "quantity": "1"
+        },
+        {
+          "name": "bosjes dragon",
+          "quantity": "0,5"
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "loskokende aardappelen",
+          "quantity": "800 gram"
+        },
+        {
+          "name": "sjalotten",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel azijn",
+          "quantity": "4"
+        },
+        {
+          "name": "kropsla",
+          "quantity": "0,5"
+        },
+        {
+          "name": "dragon",
+          "quantity": "1 takje"
+        },
+        {
+          "name": "bosje asperges",
+          "quantity": "1"
+        },
+        {
+          "name": "eierdooiers",
+          "quantity": "4"
+        },
+        {
+          "name": "boter",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "dragon",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "kervel",
+          "quantity": ""
+        },
+        {
+          "name": "laurier",
+          "quantity": ""
+        },
+        {
+          "name": "rozemarijn",
+          "quantity": ""
+        }
+      ],
+      "description": "Ontdek hoe Jeroen Meus een klassieke rosbief bereidt met romige béarnaisesaus, verse asperges en knapperige gebakken aardappelen. Dit feestelijke recept voor 4 personen is perfect voor een speciale gelegenheid."
+    },
+    {
+      "id": "dk-022",
+      "source": "Dagelijkse Kost",
+      "name": "Maak een heerlijke chocoladebiscuit met amarenakersen en mascarpone, een recept van Jeroen Meus. Perfect voor een feestelijke gelegenheid!",
+      "url": "https://dagelijksekost.vrt.be/gerechten/chocoladebiscuit-met-amarenakers-en-mascarpone",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/uRWaUBEJjFkDJ2Fde4Yg/1775827224636_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=egVQWWXmIV5HzPc8D8N3yncPO358y4%2BzOupRO6cbkcSo5WM4jbKpHjALV4gn6OIh2QTvWuW4TzxgX6VrkNk7zuBQDMuai%2BHE5BWoXZfnm3MDG5ZVUTTf9wP5G4Ls%2BWcHimAlCiZnnWWG9PJ7EHlWLsSwB9Q194mSx8%2BT9v7CN2UnWiSfvIAxWQgDChze7n235lrwZaNVUgNRrUSew8kWLYhF%2FOjrciZbrYLQowuRm%2BffPlsziFJVzapYNOMYG4P1oD2R%2BpD%2BS6SM%2FWfops5Xt27h1JP3kOj75w7bmwwKEGw8zjjnyMNN%2Fv10cKfUGr35gtux1uCrCgnVmCwnRJwk8Q%3D%3D",
+      "cook_time_min": 70,
+      "servings": 4,
+      "tags": [
+        "Zoet",
+        "Feest",
+        "Bestel online",
+        "Dessert",
+        "Dessert",
+        "Belgisch"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "eieren",
+          "quantity": "6"
+        },
+        {
+          "name": "suiker",
+          "quantity": "280 gram"
+        },
+        {
+          "name": "bloem",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "eetlepel cacaopoeder",
+          "quantity": "2"
+        },
+        {
+          "name": "theelepel bakpoeder",
+          "quantity": "1"
+        },
+        {
+          "name": "een snuif zout",
+          "quantity": "1"
+        },
+        {
+          "name": "vanille-extract",
+          "quantity": ""
+        },
+        {
+          "name": "blaadjes gelatine",
+          "quantity": "2"
+        },
+        {
+          "name": "mascarpone",
+          "quantity": "250 gram"
+        },
+        {
+          "name": "vanillestokje",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter room",
+          "quantity": "1,25"
+        },
+        {
+          "name": "eetlepel kersenconfituur",
+          "quantity": "4"
+        },
+        {
+          "name": "eetlepel kersen likeur",
+          "quantity": "4"
+        },
+        {
+          "name": "potje amarena-kers",
+          "quantity": "1"
+        },
+        {
+          "name": "chocoladeschilfers",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "eiwitten",
+          "quantity": "2"
+        },
+        {
+          "name": "eierdooiers",
+          "quantity": "2"
+        }
+      ],
+      "description": "Maak een heerlijke chocoladebiscuit met amarenakersen en mascarpone, een recept van Jeroen Meus. Perfect voor een feestelijke gelegenheid!"
+    },
+    {
+      "id": "dk-023",
+      "source": "Dagelijkse Kost",
+      "name": "Jeroen Meus tovert een verfijnde vichysoise van postelein op tafel, geserveerd met knapperige crackers belegd met cottage cheese en gerookte haring. Een fris en smaakvol gerecht voor 4 personen, perfect voor een zonnige dag!",
+      "url": "https://dagelijksekost.vrt.be/gerechten/vichysoise-van-postelein-en-crackers-met-cottage-cheese-en-gerookte-haring",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/ibwvrhZsjAkAZ3Vesl8P/1776073157586_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=nxMoOSjUM7zS3SjciuK7A7CcfBypU9WlFdZore2vWCtvtAVm8GNdQYGqBRZWyUZtiYSF9Y3f2PQ%2Bcb%2BQDBG%2FDaqCyB4gLW7MMDm23xJIX19LjjPOtq4a3Oww%2BQ%2Bs22zQOYlQ47uU8kqbD5XEg49AEg1X0BzIHWz280onHvAVk%2Fm8qZd0PMBDuhXOJAklkNoOB1RpvRTN2uBRqBIglpmztZGBEaoTyWXOdO3lFCslfWeZrdVR2RfH4pk6BmOKv8dFdr8b5R4%2F56rOXYPYV75lvR2pKHTWKBBgkNgb9Y06Byci9NyLP1EZvwXdir44TWkDb3cPQrZU8BKU0LsFcvweog%3D%3D",
+      "cook_time_min": 45,
+      "servings": 4,
+      "tags": [
+        "Vis",
+        "Klassieker",
+        "Soep",
+        "Soep",
+        "Frans"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "loskokende aardappelen",
+          "quantity": "3"
+        },
+        {
+          "name": "stengels prei",
+          "quantity": "2"
+        },
+        {
+          "name": "stengels bleekselder",
+          "quantity": "2"
+        },
+        {
+          "name": "uien",
+          "quantity": "3"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "3"
+        },
+        {
+          "name": "kruidentuiltje",
+          "quantity": "1"
+        },
+        {
+          "name": "liter groentebouillon",
+          "quantity": "2"
+        },
+        {
+          "name": "postelein",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "cottage cheese",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "bieslook",
+          "quantity": ""
+        },
+        {
+          "name": "limoenen",
+          "quantity": "0,5"
+        },
+        {
+          "name": "eetlepel mierikswortel pasta",
+          "quantity": "1"
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "tuinkers",
+          "quantity": ""
+        },
+        {
+          "name": "gerookte haringen",
+          "quantity": "200 gram"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        }
+      ],
+      "description": "Jeroen Meus tovert een verfijnde vichysoise van postelein op tafel, geserveerd met knapperige crackers belegd met cottage cheese en gerookte haring. Een fris en smaakvol gerecht voor 4 personen, perfect voor een zonnige dag!"
+    },
+    {
+      "id": "dk-024",
+      "source": "Dagelijkse Kost",
+      "name": "Jeroen Meus tovert met dit smaakvolle recept voor udon noedels met gekarameliseerd gehakt, paksoi en een rijke misobouillon. Afgewerkt met een zachtgekookt eitje en frisse lente-ui, een echte aanrader!",
+      "url": "https://dagelijksekost.vrt.be/gerechten/udon-noedels-met-paksoi-gehakt-en-misobouillon",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/3Rj7GHNrbn9WALAiR6ML/1775824899368_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=sW79Fp9Bpt6boSqx5X0Nrhm0rW82uNZwAwJZ3MJAAQ5WxzcnKujzvhpwKbwzUFB1pw12Wmj35a7%2B%2Bh4AZVm1Lt92U%2FodnFgsTD%2BSbE0yon4%2Fv8mPDcPNFS4V0XGuXh3L8ZseJO1k7mTh2NyBrCv6mRp0PN4oOphKxIdrH15ILicSMTUGbJ8iN1rcumO%2FkPF1sNo%2FyrVi90qYRbeL2iCgGl93SXxTj%2BNCrGH65Y2qXh%2BOEzSlgVlUyqnHF2V7rd94tOsFMifjWfCP6SvbgWWRbiVVyxxwvKV%2B6MVavmFoStlphLlI8hc%2FVqru4XiDsZCLCMPE2tz3ykQkOLFl0gkEow%3D%3D",
+      "cook_time_min": 35,
+      "servings": 4,
+      "tags": [
+        "Comfortfood",
+        "Bestel online",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Aziatisch"
+      ],
+      "dietary": [],
+      "cuisine": "Asian",
+      "contains": [
+        "beef",
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "gehakt",
+          "quantity": "500 gram"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "2"
+        },
+        {
+          "name": "gember",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "eetlepel vissaus",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel oestersaus",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel sojasaus",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel mirin",
+          "quantity": "2"
+        },
+        {
+          "name": "deciliter melk",
+          "quantity": "4"
+        },
+        {
+          "name": "deciliter kippenbouillon",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepel gochugaru chilipoeder",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel tahin pasta",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel bruine suiker",
+          "quantity": "0,5"
+        },
+        {
+          "name": "eetlepel misopasta",
+          "quantity": "2"
+        },
+        {
+          "name": "limoenen",
+          "quantity": "0,5"
+        },
+        {
+          "name": "udon-noedels",
+          "quantity": "400 gram"
+        },
+        {
+          "name": "eieren",
+          "quantity": "4"
+        },
+        {
+          "name": "paksoi",
+          "quantity": "0,5"
+        },
+        {
+          "name": "sesamolie",
+          "quantity": ""
+        },
+        {
+          "name": "lente-uien",
+          "quantity": ""
+        }
+      ],
+      "description": "Jeroen Meus tovert met dit smaakvolle recept voor udon noedels met gekarameliseerd gehakt, paksoi en een rijke misobouillon. Afgewerkt met een zachtgekookt eitje en frisse lente-ui, een echte aanrader!"
+    },
+    {
+      "id": "dk-025",
+      "source": "Dagelijkse Kost",
+      "name": "Jeroen Meus deelt zijn heerlijke recept voor gebakken kippenbillen met romige knolselderpuree en frisse witloofsla. Een smaakvolle maaltijd voor het hele gezin, eenvoudig te bereiden.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/gebakken-kippenbillen-met-knolselderpuree-en-witloofsla",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/lScRbibmcmCZjJBBXThx/1775822752418_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=RP8mux0YlbPe9hR14KGLWd8JPHLGjQHhirmy%2FZ9zhi9g2smJfKkyRX%2B83i6MD8kBYjzcpJlMmFeNa7G56dxTpiWU17VupLGmq50wJE3v8U7YAfR9c0Mpu0b53ic8rvzbP9EVwgiBEwhqsopV0FYh0BsYsSBUAvuk4dLfbp18Tz6ZMzsi3D9L8HzOQ1VNrOUKGf2f%2FGYnb6AqVIlfKrkbsE2%2B92p9yMPoM6BZV%2BTStRlRXL1baC%2BWLXosfBqsafe1Q1wlOjC51DYPNiUBpKR7iSO8N8BgW12IMdkbBXO3rcNEq2tGLipL9F4uk1H7Ns4wWiSHU1i1Rca%2B5mn%2B0N0ykw%3D%3D",
+      "cook_time_min": 50,
+      "servings": 4,
+      "tags": [
+        "Gevogelte",
+        "Comfortfood",
+        "Bestel online",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Belgisch"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "kippenbillen",
+          "quantity": "4"
+        },
+        {
+          "name": "kipkruiden",
+          "quantity": ""
+        },
+        {
+          "name": "tijm",
+          "quantity": ""
+        },
+        {
+          "name": "deciliter witte wijn",
+          "quantity": "1"
+        },
+        {
+          "name": "deciliter water",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel pickles",
+          "quantity": "4"
+        },
+        {
+          "name": "deciliter room",
+          "quantity": "1"
+        },
+        {
+          "name": "knolselders",
+          "quantity": "500 gram"
+        },
+        {
+          "name": "loskokende aardappelen",
+          "quantity": "500 gram"
+        },
+        {
+          "name": "rozemarijn",
+          "quantity": ""
+        },
+        {
+          "name": "boter",
+          "quantity": ""
+        },
+        {
+          "name": "ei",
+          "quantity": "1"
+        },
+        {
+          "name": "melk",
+          "quantity": ""
+        },
+        {
+          "name": "nootmuskaat",
+          "quantity": ""
+        },
+        {
+          "name": "pijlen witloof",
+          "quantity": "2"
+        },
+        {
+          "name": "sjalot",
+          "quantity": "1"
+        },
+        {
+          "name": "appel",
+          "quantity": "1"
+        },
+        {
+          "name": "bussel bieslook",
+          "quantity": "0,5"
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "laurierblaadjes",
+          "quantity": ""
+        },
+        {
+          "name": "scheutje azijn",
+          "quantity": "1"
+        }
+      ],
+      "description": "Jeroen Meus deelt zijn heerlijke recept voor gebakken kippenbillen met romige knolselderpuree en frisse witloofsla. Een smaakvolle maaltijd voor het hele gezin, eenvoudig te bereiden."
+    },
+    {
+      "id": "tfk-001",
+      "source": "24Kitchen",
+      "name": "‘Luchtige’ kippenlevertjes met kerriewafels",
+      "url": "https://www.24kitchen.nl/recepten/%E2%80%98luchtige%E2%80%99-kippenlevertjes-met-kerriewafels",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2017-11/IF120012-VOOR-%27luchtige%27%20kippenlevertjes%20met%20kerriewafels%20.jpg?itok=lEUozxWg",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Voorgerecht"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "biologische kippenlevertjes",
+          "quantity": "400 g"
+        },
+        {
+          "name": "melk",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "zout",
+          "quantity": "1.5 tl"
+        },
+        {
+          "name": "slagroom",
+          "quantity": "125 ml"
+        },
+        {
+          "name": "sjalotjes",
+          "quantity": "2"
+        },
+        {
+          "name": "teentje knoflook",
+          "quantity": "1"
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "cognac",
+          "quantity": "2 el"
+        },
+        {
+          "name": "krachtige kippenbouillon",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "agar agar",
+          "quantity": "2 g"
+        },
+        {
+          "name": "roomboter",
+          "quantity": "75 g"
+        },
+        {
+          "name": "kerriepoeder",
+          "quantity": "1 tl"
+        },
+        {
+          "name": "gembersiroop",
+          "quantity": "15 ml"
+        },
+        {
+          "name": "eiwit",
+          "quantity": "75 g"
+        },
+        {
+          "name": "limoen",
+          "quantity": "1"
+        },
+        {
+          "name": "bloem",
+          "quantity": "75 g"
+        },
+        {
+          "name": "stengels bosuitjes",
+          "quantity": "2"
+        },
+        {
+          "name": "stengels bleekselderij",
+          "quantity": "2"
+        },
+        {
+          "name": "grote groene olijven (bella di cerignola)",
+          "quantity": "8"
+        },
+        {
+          "name": "kappertjes",
+          "quantity": "2 el"
+        },
+        {
+          "name": "keukenpapier",
+          "quantity": ""
+        },
+        {
+          "name": "keukenmachine",
+          "quantity": ""
+        },
+        {
+          "name": "blender",
+          "quantity": ""
+        }
+      ],
+      "description": "Een modern gerecht met knapperige kerriewafels en een luchtige mousse van kippenlevertjes. Hiermee zul je zeker indruk maken op je vrienden."
+    },
+    {
+      "id": "tfk-002",
+      "source": "24Kitchen",
+      "name": "15 minuten wokschotel met knoflookgamba’s",
+      "url": "https://www.24kitchen.nl/recepten/15-minuten-wokschotel-met-knoflookgambas",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2014-04/134246.original.jpg?itok=XqOIiA3o",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Aziatisch"
+      ],
+      "dietary": [],
+      "cuisine": "Asian",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "sugar snaps",
+          "quantity": "200 g"
+        },
+        {
+          "name": "udon noedels",
+          "quantity": "200 g"
+        },
+        {
+          "name": "rode paprika's",
+          "quantity": "2"
+        },
+        {
+          "name": "courgette",
+          "quantity": "1"
+        },
+        {
+          "name": "zonnebloemolie",
+          "quantity": ""
+        },
+        {
+          "name": "avocado",
+          "quantity": "1"
+        },
+        {
+          "name": "bosje bosui",
+          "quantity": "1"
+        },
+        {
+          "name": "taugé",
+          "quantity": "125 g"
+        },
+        {
+          "name": "sweet chilisaus",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "tomatenketchup",
+          "quantity": "150 ml"
+        },
+        {
+          "name": "gamba's",
+          "quantity": "24"
+        },
+        {
+          "name": "teentjes knoflook",
+          "quantity": "4"
+        },
+        {
+          "name": "gebakken uitjes",
+          "quantity": "2 el"
+        },
+        {
+          "name": "cashewnootjes",
+          "quantity": "2 el"
+        },
+        {
+          "name": "zeef",
+          "quantity": ""
+        }
+      ],
+      "description": "Blancheer de sugar snaps in circa 4 minuten in ruim kokend water met een beetje zout. Schep de sugar snaps uit de pan en dep ze droog."
+    },
+    {
+      "id": "tfk-003",
+      "source": "24Kitchen",
+      "name": "3 bereidingen van oesters",
+      "url": "https://www.24kitchen.nl/recepten/3-bereidingen-oesters",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2017-10/GK_S20035_FRA_3%20bereidingen%20van%20oesters.%20%286%20p.p%29.jpg?itok=A0JIN4fj",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Voorgerecht",
+        "Frans"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "gillardeaux oesters",
+          "quantity": "8"
+        },
+        {
+          "name": "boter",
+          "quantity": "50 g"
+        },
+        {
+          "name": "bloem",
+          "quantity": "50 g"
+        },
+        {
+          "name": "melk",
+          "quantity": "500 ml"
+        },
+        {
+          "name": "geschaafde oude kaas",
+          "quantity": "100 g"
+        },
+        {
+          "name": "zeeuwse creuses",
+          "quantity": "8"
+        },
+        {
+          "name": "bloem",
+          "quantity": "2 el"
+        },
+        {
+          "name": "boter",
+          "quantity": "1 el"
+        },
+        {
+          "name": "bosuitje",
+          "quantity": "1"
+        },
+        {
+          "name": "citroen",
+          "quantity": "1"
+        },
+        {
+          "name": "mousserende wijn",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "dille",
+          "quantity": "3 takjes"
+        },
+        {
+          "name": "zeeuwse platte oesters",
+          "quantity": "8"
+        },
+        {
+          "name": "sjalot",
+          "quantity": "1"
+        },
+        {
+          "name": "rode wijnazijn of frambozenazijn",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "garde",
+          "quantity": ""
+        },
+        {
+          "name": "oven met grillstand",
+          "quantity": ""
+        },
+        {
+          "name": "oestermesje",
+          "quantity": ""
+        },
+        {
+          "name": "oesterhandschoen",
+          "quantity": ""
+        },
+        {
+          "name": "canneleermes",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        }
+      ],
+      "description": "Heerlijke varianten om oesters te bereiden"
+    },
+    {
+      "id": "tfk-004",
+      "source": "24Kitchen",
+      "name": "4-seizoenenstamppot",
+      "url": "https://www.24kitchen.nl/recepten/4-seizoenenstamppot",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-08/123723.original.jpg?itok=t3QCabu0",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "teentjes knoflook",
+          "quantity": "2"
+        },
+        {
+          "name": "kruimige aardappels",
+          "quantity": "800 g"
+        },
+        {
+          "name": "olijfolie om in te bakken",
+          "quantity": ""
+        },
+        {
+          "name": "bos bosuitjes",
+          "quantity": "1"
+        },
+        {
+          "name": "cherrytomaten",
+          "quantity": "250 g"
+        },
+        {
+          "name": "geschaafde amandelen",
+          "quantity": "65 g"
+        },
+        {
+          "name": "prei",
+          "quantity": "1"
+        },
+        {
+          "name": "parmaham",
+          "quantity": "80 g"
+        },
+        {
+          "name": "olijfolie extra vierge",
+          "quantity": ""
+        },
+        {
+          "name": "crazy pea",
+          "quantity": "200 g"
+        },
+        {
+          "name": "pureestamper",
+          "quantity": ""
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "tfk-005",
+      "source": "24Kitchen",
+      "name": "Aardappel baconspiesjes met dragonmayonaise",
+      "url": "https://www.24kitchen.nl/recepten/aardappel-baconspiesjes-met-dragonmaypnaise",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2017-10/Aardappelbaconspiesje.png?itok=PHxS3VO3",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Bijgerecht",
+        "Snack",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "pork"
+      ],
+      "ingredients": [
+        {
+          "name": "nieuwe aardappels",
+          "quantity": "8"
+        },
+        {
+          "name": "repen bacon",
+          "quantity": "16"
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "gezouten ansjovisfilets",
+          "quantity": "3"
+        },
+        {
+          "name": "bosje dragon",
+          "quantity": "0.5"
+        },
+        {
+          "name": "mayonaise",
+          "quantity": "125 g"
+        },
+        {
+          "name": "satéprikkers",
+          "quantity": ""
+        }
+      ],
+      "description": "Kook de aardappels gaar en laat ze afkoelen. Verwarm de grillpan voor. Verwarm de oven voor op 180 °C. Halveer de aardappels, wikkel de bacon eromheen en rijg ze aan de prikkers."
+    },
+    {
+      "id": "tfk-006",
+      "source": "24Kitchen",
+      "name": "Aardappel erwtencurry",
+      "url": "https://www.24kitchen.nl/recepten/aardappel-erwtencurry",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2017-10/090608_aardappelerwtcurry.png?itok=m1kXivzN",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Bijgerecht"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "rode uien",
+          "quantity": "2"
+        },
+        {
+          "name": "teentjes knoflook",
+          "quantity": "2"
+        },
+        {
+          "name": "aardappelen",
+          "quantity": "750 g"
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "indiase currypasta",
+          "quantity": "1 el"
+        },
+        {
+          "name": "kokosmelk",
+          "quantity": "150 ml"
+        },
+        {
+          "name": "doperwten",
+          "quantity": "150 g"
+        },
+        {
+          "name": "bosje munt",
+          "quantity": "0.5"
+        }
+      ],
+      "description": "Pel en snipper de uien. Pel en snijd de knoflook fijn. Schil de aardappels, snijd ze in blokjes en spoel ze af onder de kraan. Verhit olie in een pan en fruit de uien en de knoflook."
+    },
+    {
+      "id": "tfk-007",
+      "source": "24Kitchen",
+      "name": "Aardappel-bloemkoolpuree met speklapjes",
+      "url": "https://www.24kitchen.nl/recepten/aardappel-bloemkoolpuree-met-speklapjes",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2017-01/162920.original.jpg?itok=8FGpc3te",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "kruimige aardappels",
+          "quantity": "400 g"
+        },
+        {
+          "name": "bloemkool",
+          "quantity": "1"
+        },
+        {
+          "name": "speklapjes",
+          "quantity": "500 g"
+        },
+        {
+          "name": "kerriepoeder",
+          "quantity": "3 el"
+        },
+        {
+          "name": "rode ui",
+          "quantity": "2"
+        },
+        {
+          "name": "teentjes knoflook",
+          "quantity": "3"
+        },
+        {
+          "name": "bosje tijm",
+          "quantity": "0.5"
+        },
+        {
+          "name": "zonnebloemolie",
+          "quantity": ""
+        },
+        {
+          "name": "walnoten",
+          "quantity": "100 g"
+        },
+        {
+          "name": "roomboter",
+          "quantity": "80 g"
+        },
+        {
+          "name": "scheutje walnootolie",
+          "quantity": ""
+        },
+        {
+          "name": "pureestamper",
+          "quantity": ""
+        },
+        {
+          "name": "staafmixer",
+          "quantity": ""
+        }
+      ],
+      "description": "Verwarm de grillstand van de oven voor op 180 °C.\nBreng 2 pannen met water en een beetje zout aan de kook."
+    },
+    {
+      "id": "tfk-008",
+      "source": "24Kitchen",
+      "name": "Aardappel-knoflooksoep met parmahamchips",
+      "url": "https://www.24kitchen.nl/recepten/aardappel-knoflooksoep-met-parmahamchips",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2014-01/129407.original.jpg?itok=b50jTGhr",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Italiaans"
+      ],
+      "dietary": [],
+      "cuisine": "Italian",
+      "contains": [
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "prei",
+          "quantity": "1"
+        },
+        {
+          "name": "teentjes knoflook",
+          "quantity": "4"
+        },
+        {
+          "name": "klontje boter",
+          "quantity": "1"
+        },
+        {
+          "name": "kruimige aardappels",
+          "quantity": "1 kg"
+        },
+        {
+          "name": "water",
+          "quantity": "1.5 l"
+        },
+        {
+          "name": "kippenbouillonblokjes",
+          "quantity": "2"
+        },
+        {
+          "name": "parmaham",
+          "quantity": "75 g"
+        },
+        {
+          "name": "bosje bladpeterselie",
+          "quantity": "1"
+        },
+        {
+          "name": "parmezaanse kaas",
+          "quantity": "80 g"
+        },
+        {
+          "name": "pistachenootjes",
+          "quantity": "40 g"
+        },
+        {
+          "name": "olijfolie extra vierge",
+          "quantity": ""
+        },
+        {
+          "name": "doperwten",
+          "quantity": "400 g"
+        },
+        {
+          "name": "tuinbonen",
+          "quantity": "200 g"
+        },
+        {
+          "name": "citroen",
+          "quantity": "1"
+        },
+        {
+          "name": "kookroom",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "staafmixer",
+          "quantity": ""
+        },
+        {
+          "name": "bakpapier",
+          "quantity": ""
+        },
+        {
+          "name": "rasp",
+          "quantity": ""
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "tfk-009",
+      "source": "24Kitchen",
+      "name": "Aardappel-knolstamppot met kabeljauwfilet",
+      "url": "https://www.24kitchen.nl/recepten/aardappel-knolstamppot-met-kabeljauwfilet",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-11/127243.original.jpg?itok=YGKUl9ut",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "kruimige aardappels",
+          "quantity": "1600 g"
+        },
+        {
+          "name": "kleine knolselderij",
+          "quantity": "2"
+        },
+        {
+          "name": "sjalotjes",
+          "quantity": "8"
+        },
+        {
+          "name": "boter",
+          "quantity": ""
+        },
+        {
+          "name": "kabeljauwfilet",
+          "quantity": "800 g"
+        },
+        {
+          "name": "witte wijn",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "kropjes little gem",
+          "quantity": "2"
+        },
+        {
+          "name": "diepvriesdoperwten",
+          "quantity": "200 g"
+        },
+        {
+          "name": "aluminiumfolie",
+          "quantity": ""
+        },
+        {
+          "name": "pureestamper",
+          "quantity": ""
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "tfk-010",
+      "source": "24Kitchen",
+      "name": "Aardappel-lentetaart met geitenkaas",
+      "url": "https://www.24kitchen.nl/recepten/aardappellentetaart-met-geitenkaas",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-02/138378.original.jpg?itok=xcVkvIGp",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "vastkokende aardappels",
+          "quantity": "1 kg"
+        },
+        {
+          "name": "rode paprika",
+          "quantity": "1"
+        },
+        {
+          "name": "groene paprika",
+          "quantity": "1"
+        },
+        {
+          "name": "courgette",
+          "quantity": "1"
+        },
+        {
+          "name": "rode ui",
+          "quantity": "1"
+        },
+        {
+          "name": "teentje knoflook",
+          "quantity": "1"
+        },
+        {
+          "name": "bosje lente-ui",
+          "quantity": "1"
+        },
+        {
+          "name": "eieren",
+          "quantity": "5"
+        },
+        {
+          "name": "room",
+          "quantity": "300 ml"
+        },
+        {
+          "name": "geitenkaas",
+          "quantity": "125 g"
+        },
+        {
+          "name": "maïzena",
+          "quantity": "1 el"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "versgemalen peper",
+          "quantity": ""
+        },
+        {
+          "name": "kropsla",
+          "quantity": "1"
+        },
+        {
+          "name": "cherrytomaatjes",
+          "quantity": "250 g"
+        },
+        {
+          "name": "olijfolie vergine",
+          "quantity": "1 el"
+        },
+        {
+          "name": "balsamico azijn",
+          "quantity": "1 el"
+        },
+        {
+          "name": "basilicum",
+          "quantity": "6 takjes"
+        },
+        {
+          "name": "ovenschaal",
+          "quantity": ""
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "tfk-011",
+      "source": "24Kitchen",
+      "name": "Aardappel-pompoenpuree met geitenkaas en rode kool",
+      "url": "https://www.24kitchen.nl/recepten/aardappel-pompoenpuree-met-geitenkaas-en-rode-kool",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-12/128167.original.jpg?itok=bw1MnSH4",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "ui",
+          "quantity": "1"
+        },
+        {
+          "name": "rode kool",
+          "quantity": "1"
+        },
+        {
+          "name": "klontje boter",
+          "quantity": "1"
+        },
+        {
+          "name": "rode bessensap",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "cranberries",
+          "quantity": "250 g"
+        },
+        {
+          "name": "kaneelstokje",
+          "quantity": "1"
+        },
+        {
+          "name": "maïzena",
+          "quantity": "1 el"
+        },
+        {
+          "name": "water",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "kruimige aardappels",
+          "quantity": "800 g"
+        },
+        {
+          "name": "pompoen",
+          "quantity": "1"
+        },
+        {
+          "name": "melk",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "zachte geitenkaas",
+          "quantity": "200 g"
+        },
+        {
+          "name": "walnoten",
+          "quantity": "65 g"
+        },
+        {
+          "name": "pureestamper",
+          "quantity": ""
+        }
+      ],
+      "description": "Pel en snipper de ui.\nSnijd de rode kool in vieren. Verwijder de kern en snijd de rode kool in dunne repen."
+    },
+    {
+      "id": "tfk-012",
+      "source": "24Kitchen",
+      "name": "Aardappel-preisoep met gerookte zalm",
+      "url": "https://www.24kitchen.nl/recepten/aardappelpreisoep-met-gerookte-zalm",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-02/138980.original.jpg?itok=p4QOwS1o",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "fish"
+      ],
+      "ingredients": [
+        {
+          "name": "sjalotjes",
+          "quantity": "4"
+        },
+        {
+          "name": "teentjes knoflook",
+          "quantity": "4"
+        },
+        {
+          "name": "preien",
+          "quantity": "3"
+        },
+        {
+          "name": "boter",
+          "quantity": "20 g"
+        },
+        {
+          "name": "water",
+          "quantity": "1 l"
+        },
+        {
+          "name": "groentebouillonblokjes",
+          "quantity": "2"
+        },
+        {
+          "name": "kruimige aardappels",
+          "quantity": "700 g"
+        },
+        {
+          "name": "gerookte zalm",
+          "quantity": "300 g"
+        },
+        {
+          "name": "peterselie",
+          "quantity": "4 takjes"
+        },
+        {
+          "name": "kleine bloemkool",
+          "quantity": "1"
+        },
+        {
+          "name": "olijfolie extra vergine",
+          "quantity": "2 el"
+        },
+        {
+          "name": "azijn",
+          "quantity": "1 el"
+        },
+        {
+          "name": "mosterd",
+          "quantity": "1 el"
+        },
+        {
+          "name": "staafmixer",
+          "quantity": ""
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "tfk-013",
+      "source": "24Kitchen",
+      "name": "Aardappel-zuurkoolsoep",
+      "url": "https://www.24kitchen.nl/recepten/aardappel-zuurkoolsoep",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-02/114346.original.jpg?itok=UKfjuIj9",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Nederlands,Oost-Europees"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "aardappels",
+          "quantity": "500 g"
+        },
+        {
+          "name": "ui",
+          "quantity": "1"
+        },
+        {
+          "name": "olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "zuurkool",
+          "quantity": "125 g"
+        },
+        {
+          "name": "komijnzaad",
+          "quantity": "0.5 el"
+        },
+        {
+          "name": "groentebouillon",
+          "quantity": "1.5 l"
+        },
+        {
+          "name": "room",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "bosje kervel",
+          "quantity": "1"
+        },
+        {
+          "name": "bolletjes",
+          "quantity": "4"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "versgemalen peper",
+          "quantity": ""
+        }
+      ],
+      "description": "Schil en snijd de aardappels in blokjes. Pel en snipper de ui. Verhit de olie in een (soep)pan en fruit de ui. Voeg de aardappels, zuurkool en komijn toe en fruit kort mee. Schenk de bouillon en de room erbij en laat het op laag vuur circa "
+    },
+    {
+      "id": "tfk-014",
+      "source": "24Kitchen",
+      "name": "Aardappelbrood met spekjes en rozemarijn",
+      "url": "https://www.24kitchen.nl/recepten/aardappelbrood-met-spekjes-en-rozemarijn",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-02/115958.original.jpg?itok=T3ISeEzR",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Lunchgerecht",
+        "Italiaans"
+      ],
+      "dietary": [],
+      "cuisine": "Italian",
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "puree aardappels",
+          "quantity": "300 g"
+        },
+        {
+          "name": "gerookte spekblokjes",
+          "quantity": "150 g"
+        },
+        {
+          "name": "bloem",
+          "quantity": "400 g"
+        },
+        {
+          "name": "rozemarijn",
+          "quantity": "1 takje"
+        },
+        {
+          "name": "gedroogde gist",
+          "quantity": "7 g"
+        },
+        {
+          "name": "suiker",
+          "quantity": "1 tl"
+        },
+        {
+          "name": "zout",
+          "quantity": "1 tl"
+        },
+        {
+          "name": "versgemalen peper",
+          "quantity": "1 tl"
+        },
+        {
+          "name": "olijfolie",
+          "quantity": "3 el"
+        },
+        {
+          "name": "lauwe melk",
+          "quantity": "250 ml"
+        },
+        {
+          "name": "ei",
+          "quantity": "1"
+        },
+        {
+          "name": "cakeblik",
+          "quantity": ""
+        },
+        {
+          "name": "olie om in te vetten",
+          "quantity": ""
+        },
+        {
+          "name": "bakpapier",
+          "quantity": ""
+        },
+        {
+          "name": "eidooier om te bestrijken",
+          "quantity": "1"
+        },
+        {
+          "name": "room om te bestrijken",
+          "quantity": ""
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "tfk-015",
+      "source": "24Kitchen",
+      "name": "Aardappelcrème soep met worst",
+      "url": "https://www.24kitchen.nl/recepten/aardappelcr%C3%A8me-soep-met-worst",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-02/114706.original.jpg?itok=CIHIG01W",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "kruimige aardappels",
+          "quantity": "300 g"
+        },
+        {
+          "name": "ui",
+          "quantity": "1"
+        },
+        {
+          "name": "teentje knoflook",
+          "quantity": "2"
+        },
+        {
+          "name": "prei",
+          "quantity": "1"
+        },
+        {
+          "name": "sinaasappel",
+          "quantity": "1"
+        },
+        {
+          "name": "zonnebloemolie",
+          "quantity": ""
+        },
+        {
+          "name": "runderbouillon",
+          "quantity": "800 ml"
+        },
+        {
+          "name": "magere melk",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "winterwortel",
+          "quantity": "1"
+        },
+        {
+          "name": "courgette",
+          "quantity": "1"
+        },
+        {
+          "name": "maïskolf",
+          "quantity": "1"
+        },
+        {
+          "name": "magere rookworst",
+          "quantity": "1"
+        },
+        {
+          "name": "volkoren pistoletjes",
+          "quantity": "4"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "versgemalen peper",
+          "quantity": ""
+        },
+        {
+          "name": "bieslook",
+          "quantity": "10 takjes"
+        },
+        {
+          "name": "peterselie",
+          "quantity": "5 takjes"
+        },
+        {
+          "name": "boter",
+          "quantity": "50 g"
+        }
+      ],
+      "description": "Schil de aardappels en snijd ze in vieren. Pel en snipper de ui, pel en hak de knoflook. Snijd de prei in ringen en was de ringen. Schil met behulp van een dunschiller, 2 stukjes van de schil van de sinaasappel."
+    },
+    {
+      "id": "tfk-016",
+      "source": "24Kitchen",
+      "name": "Aardappelgratin",
+      "url": "https://www.24kitchen.nl/recepten/aardappelgratin",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2025-10/aardappelgratin.png?itok=lSEun713",
+      "cook_time_min": null,
+      "servings": 6,
+      "tags": [
+        "Hoofdgerecht"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "vastkokende aardappels",
+          "quantity": "1 kg"
+        },
+        {
+          "name": "volle melk",
+          "quantity": "300 ml"
+        },
+        {
+          "name": "slagroom",
+          "quantity": "300 ml"
+        },
+        {
+          "name": "mosterd",
+          "quantity": "1 el"
+        },
+        {
+          "name": "knoflook",
+          "quantity": "1 teen"
+        },
+        {
+          "name": "nootmuskaat",
+          "quantity": "1 snuf"
+        },
+        {
+          "name": "ongezouten boter om in te vetten",
+          "quantity": ""
+        },
+        {
+          "name": "geraspte comté",
+          "quantity": "100 g"
+        },
+        {
+          "name": "peper en zout",
+          "quantity": ""
+        },
+        {
+          "name": "ovenschaal",
+          "quantity": ""
+        }
+      ],
+      "description": "Aardappelgratin, of op z'n Frans pommes gratin is een populair ovengerecht gemaakt van aardappelen, room en kaas. Wil je zelf nou zelf zo'n romige aardappelgratin maken? Volg dan onderstaand aardappelgratinrecept."
+    },
+    {
+      "id": "tfk-017",
+      "source": "24Kitchen",
+      "name": "Aardappelgratin met zoete bospeensalade",
+      "url": "https://www.24kitchen.nl/recepten/aardappelgratin-met-zoete-bospeensalade",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2017-12/MM130382-2_RUDOLPH_Aardappelgratin%20met%20zoete%20bospeenssalade%20%28bieslook%29.jpg?itok=xru9BJqi",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg",
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "rode ui",
+          "quantity": "1"
+        },
+        {
+          "name": "olijfolie om in te bakken",
+          "quantity": ""
+        },
+        {
+          "name": "gerookte spekblokjes",
+          "quantity": "125 g"
+        },
+        {
+          "name": "eieren",
+          "quantity": "2"
+        },
+        {
+          "name": "kookroom",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "geraspte oude kaas",
+          "quantity": "150 g"
+        },
+        {
+          "name": "aardappelschijfjes voorgekookt",
+          "quantity": "700 g"
+        },
+        {
+          "name": "bosje bospenen",
+          "quantity": "1"
+        },
+        {
+          "name": "walnoten",
+          "quantity": "100 g"
+        },
+        {
+          "name": "bosje bosui",
+          "quantity": "1"
+        },
+        {
+          "name": "rozijnen",
+          "quantity": "100 g"
+        },
+        {
+          "name": "olijfolie vergine",
+          "quantity": "20 ml"
+        },
+        {
+          "name": "honing",
+          "quantity": "1 el"
+        },
+        {
+          "name": "ovenschaal",
+          "quantity": ""
+        }
+      ],
+      "description": "Rudolph maakt in De Makkelijke Maaltijd deze zalige aardappelgratin met zoete bospeensalade."
+    },
+    {
+      "id": "tfk-018",
+      "source": "24Kitchen",
+      "name": "Aardappelkroketjes met koolsla",
+      "url": "https://www.24kitchen.nl/recepten/aardappelkroketjes-met-koolsla",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2016-06/158460.original.jpg?itok=8HNA2IZt",
+      "cook_time_min": null,
+      "servings": 1,
+      "tags": [
+        "Hoofdgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg",
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "komijnzaad",
+          "quantity": "2 tl"
+        },
+        {
+          "name": "mayonaise",
+          "quantity": "2 el"
+        },
+        {
+          "name": "yoghurt",
+          "quantity": "2 el"
+        },
+        {
+          "name": "witte wijnazijn",
+          "quantity": "3 el"
+        },
+        {
+          "name": "honing",
+          "quantity": "1 el"
+        },
+        {
+          "name": "(rode) kool",
+          "quantity": "1"
+        },
+        {
+          "name": "appels",
+          "quantity": "3"
+        },
+        {
+          "name": "peren",
+          "quantity": "3"
+        },
+        {
+          "name": "suiker",
+          "quantity": "1 el"
+        },
+        {
+          "name": "kaneel",
+          "quantity": "1 snufje"
+        },
+        {
+          "name": "geraspte kaas",
+          "quantity": "100 g"
+        },
+        {
+          "name": "aardappelpuree",
+          "quantity": "600 g"
+        },
+        {
+          "name": "eieren",
+          "quantity": "2"
+        },
+        {
+          "name": "rijstcrackers",
+          "quantity": "150 g"
+        },
+        {
+          "name": "keukenpapier",
+          "quantity": ""
+        },
+        {
+          "name": "vershoudfolie",
+          "quantity": ""
+        },
+        {
+          "name": "frituurolie",
+          "quantity": ""
+        },
+        {
+          "name": "hersluitbare zak",
+          "quantity": ""
+        }
+      ],
+      "description": "Meng voor de dressing in een grote kom de komijnzaadjes, mayonaise, yoghurt, azijn en honing door elkaar en breng op smaak met een beetje zout en versgemalen peper. Halveer de kool, verwijder de kern en snijd een halve kool zo dun mogelijk "
+    },
+    {
+      "id": "tfk-019",
+      "source": "24Kitchen",
+      "name": "Aardappelpoffertjes met kruidenroomkaas en five-spice beef",
+      "url": "https://www.24kitchen.nl/recepten/aardappelpoffertjes-met-kruidenroomkaas-en-five-spice-beef",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-10/126694.original.jpg?itok=wIOPCODK",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Frans,Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "szechuanpeper of zwarte peperkorrels",
+          "quantity": "0.5 el"
+        },
+        {
+          "name": "steranijs",
+          "quantity": "5"
+        },
+        {
+          "name": "venkelzaad",
+          "quantity": "1 el"
+        },
+        {
+          "name": "kruidnagels",
+          "quantity": "2"
+        },
+        {
+          "name": "kaneelpoeder",
+          "quantity": "1 el"
+        },
+        {
+          "name": "kogelbiefstukjes à 150 g",
+          "quantity": "4"
+        },
+        {
+          "name": "klontje boter",
+          "quantity": "1"
+        },
+        {
+          "name": "kruimige aardappels",
+          "quantity": "500 g"
+        },
+        {
+          "name": "eieren",
+          "quantity": "3"
+        },
+        {
+          "name": "kruidenroomkaas",
+          "quantity": "150 g"
+        },
+        {
+          "name": "zure room",
+          "quantity": "250 ml"
+        },
+        {
+          "name": "bloem",
+          "quantity": "1 el"
+        },
+        {
+          "name": "stronk broccoli",
+          "quantity": "1"
+        },
+        {
+          "name": "pijnboompitten",
+          "quantity": "4 el"
+        },
+        {
+          "name": "citroen",
+          "quantity": "1"
+        },
+        {
+          "name": "fruitige olijfolie",
+          "quantity": "4 el"
+        },
+        {
+          "name": "handmixer met gardes",
+          "quantity": ""
+        },
+        {
+          "name": "poffertjespan",
+          "quantity": ""
+        }
+      ],
+      "description": "Van deze aardappelpoffertjes met kruidenroomkaas en five-spice beef zijn je vrienden zeker onder de indruk! In de middag bereid je hem voor, zodat je hem in de avond snel op tafel kunt zetten."
+    },
+    {
+      "id": "tfk-020",
+      "source": "24Kitchen",
+      "name": "Aardappelpuree en rode bietjes met appel",
+      "url": "https://www.24kitchen.nl/recepten/aardappelpuree-en-rode-bietjes-met-appel",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2013-02/114720.original.jpg?itok=oIVKnZ6E",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "stampot aardappels gestoomd",
+          "quantity": "900 g"
+        },
+        {
+          "name": "schouderkarbonade (zonder bot)",
+          "quantity": "4"
+        },
+        {
+          "name": "zonnebloemolie",
+          "quantity": ""
+        },
+        {
+          "name": "boter",
+          "quantity": ""
+        },
+        {
+          "name": "mosterd",
+          "quantity": "1 tl"
+        },
+        {
+          "name": "sojasaus",
+          "quantity": "1 el"
+        },
+        {
+          "name": "gekookte bieten",
+          "quantity": "6"
+        },
+        {
+          "name": "ui",
+          "quantity": "1"
+        },
+        {
+          "name": "appel granny smith",
+          "quantity": "1"
+        },
+        {
+          "name": "magere melk",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "versgemalen peper",
+          "quantity": ""
+        }
+      ],
+      "description": "Deze aardappelpuree met rode bietjes heeft een frisse twist dankzij de appel. Dit hoofdgerecht is makkelijk te maken en staat supersnel op tafel!"
+    },
+    {
+      "id": "tfk-021",
+      "source": "24Kitchen",
+      "name": "Aardappelsalade",
+      "url": "https://www.24kitchen.nl/recepten/aardappelsalade",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2024-06/aardappelsalade%20simpel.jpeg?itok=5ByAGBga",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Voorgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "gekookte aardappels",
+          "quantity": "600 g"
+        },
+        {
+          "name": "grote augurken met augurkenvocht",
+          "quantity": "4"
+        },
+        {
+          "name": "rode ui",
+          "quantity": "1"
+        },
+        {
+          "name": "teentjes knoflook",
+          "quantity": "2"
+        },
+        {
+          "name": "bladpeterselie",
+          "quantity": "10 takjes"
+        },
+        {
+          "name": "yoghurt",
+          "quantity": "3 el"
+        },
+        {
+          "name": "mayonaise",
+          "quantity": "3 el"
+        }
+      ],
+      "description": "Een simpele aardappelsalade maken? Probeer dit recept met 5 ingrediënten die je waarschijnlijk al in de koelkast hebt staan."
+    },
+    {
+      "id": "tfk-022",
+      "source": "24Kitchen",
+      "name": "Aardappelsalade met pistachepesto",
+      "url": "https://www.24kitchen.nl/recepten/aardappelsalade-met-pistachepesto",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2014-03/132916.original.jpg?itok=ZKTtb14Y",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht",
+        "Arabisch"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "kruimige aardappels",
+          "quantity": "800 g"
+        },
+        {
+          "name": "kipfilet",
+          "quantity": "300 g"
+        },
+        {
+          "name": "olijfolie om in te bakken",
+          "quantity": ""
+        },
+        {
+          "name": "courgette",
+          "quantity": "1"
+        },
+        {
+          "name": "teentje knoflook",
+          "quantity": "1"
+        },
+        {
+          "name": "bosje basilicum",
+          "quantity": "1"
+        },
+        {
+          "name": "bosje bladpeterselie",
+          "quantity": "1"
+        },
+        {
+          "name": "parmezaanse kaas",
+          "quantity": "60 g"
+        },
+        {
+          "name": "gepelde ongezouten pistachenootjes",
+          "quantity": "60 g"
+        },
+        {
+          "name": "olijfolie extra vierge",
+          "quantity": ""
+        },
+        {
+          "name": "haricots verts",
+          "quantity": "150 g"
+        },
+        {
+          "name": "diepvriesdoperwten",
+          "quantity": "200 g"
+        },
+        {
+          "name": "bosje munt",
+          "quantity": "0.5"
+        },
+        {
+          "name": "grillpan",
+          "quantity": ""
+        },
+        {
+          "name": "rasp",
+          "quantity": ""
+        },
+        {
+          "name": "staafmixer +  staafmixerbakje",
+          "quantity": ""
+        },
+        {
+          "name": "ovenschaal",
+          "quantity": ""
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "tfk-023",
+      "source": "24Kitchen",
+      "name": "Aardappelsalade met rucola en katenspek",
+      "url": "https://www.24kitchen.nl/recepten/aardappelsalade-met-rucola-en-katenspek",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2018-06/24Kitchen_Aardappelen-1.jpg?itok=MwxBOSuc",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Bijgerecht",
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "opperdoezer aardappels",
+          "quantity": "1000 g"
+        },
+        {
+          "name": "katenspek",
+          "quantity": "200 g"
+        },
+        {
+          "name": "kappertjes",
+          "quantity": "100 g"
+        },
+        {
+          "name": "mayonaise",
+          "quantity": "6 el"
+        },
+        {
+          "name": "franse mosterd",
+          "quantity": "2 tl"
+        },
+        {
+          "name": "bosje bieslook",
+          "quantity": "2"
+        },
+        {
+          "name": "rucola",
+          "quantity": "300 g"
+        }
+      ],
+      "description": "Aardappelsalade met een twist! Uitgebakken katenspek geeft een heerlijke zoute crunch aan het recept."
+    },
+    {
+      "id": "tfk-024",
+      "source": "24Kitchen",
+      "name": "Zalm uit de oven",
+      "url": "https://www.24kitchen.nl/recepten/zalm-uit-de-oven",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2020-05/zalm-uit-de-oven.jpg?itok=8CkGK3kS",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Hoofdgerecht"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "teentjes knoflook",
+          "quantity": "2"
+        },
+        {
+          "name": "olijfolie om in te bakken",
+          "quantity": ""
+        },
+        {
+          "name": "limoenen",
+          "quantity": "2"
+        },
+        {
+          "name": "zalmfilets a 100 g",
+          "quantity": "4"
+        },
+        {
+          "name": "bakpapier",
+          "quantity": ""
+        }
+      ],
+      "description": "Zalm uit de oven bereiden? Simpel! Met dit recept van 24Kitchen's chef Miljuschka zet jij in een handomdraai een overheerlijk stukje zalm op tafel."
+    },
+    {
+      "id": "tfk-025",
+      "source": "24Kitchen",
+      "name": "Aardappelsoep",
+      "url": "https://www.24kitchen.nl/recepten/aardappelsoep",
+      "image": "https://www.24kitchen.nl/files/styles/social_media_share/public/2025-11/aardappelsoep.png?itok=nOq4YuxH",
+      "cook_time_min": null,
+      "servings": 4,
+      "tags": [
+        "Nederlands"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "pork"
+      ],
+      "ingredients": [
+        {
+          "name": "grote ui",
+          "quantity": "1"
+        },
+        {
+          "name": "teentjes knoflook",
+          "quantity": "3"
+        },
+        {
+          "name": "prei groene kool of spitskool",
+          "quantity": "0.5"
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "tijm of rozemarijn",
+          "quantity": "3 takjes"
+        },
+        {
+          "name": "gekookte kruimige aardappels",
+          "quantity": "250 g"
+        },
+        {
+          "name": "groenten- of kippenbouillon",
+          "quantity": "500 ml"
+        },
+        {
+          "name": "volle melk",
+          "quantity": "250 ml"
+        },
+        {
+          "name": "blaadjes laurier vers of gedroogd",
+          "quantity": "1"
+        },
+        {
+          "name": "krulpeterselie",
+          "quantity": "2 el"
+        },
+        {
+          "name": "zure room",
+          "quantity": "4 el"
+        },
+        {
+          "name": "plakken rauwe ham",
+          "quantity": "2"
+        },
+        {
+          "name": "staafmixer of blender",
+          "quantity": ""
+        }
+      ],
+      "description": "Zin in een heerlijk kommetje soep? Maak deze ouderwetse aardappelsoep. Het lekkerste recept vind je natuurlijk bij 24Kitchen."
+    },
+    {
+      "id": "lr-001",
+      "source": "Leuke Recepten",
+      "name": "Temaki sushi",
+      "url": "https://www.leukerecepten.nl/recepten/temaki-sushi/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2016/11/Temaki_sushi.jpg",
+      "cook_time_min": 50,
+      "servings": null,
+      "tags": [
+        "Hoofdgerechten",
+        "Aziatische recepten"
+      ],
+      "dietary": [],
+      "cuisine": "Asian",
+      "contains": [
+        "fish"
+      ],
+      "ingredients": [
+        {
+          "name": "norivellen (in tweeen gesneden of geknipt)",
+          "quantity": "3"
+        },
+        {
+          "name": "gr sushi rijst",
+          "quantity": "150"
+        },
+        {
+          "name": "eetlepel sushi azijn",
+          "quantity": "2"
+        },
+        {
+          "name": "gr blokjes gerookte zalm",
+          "quantity": "50"
+        },
+        {
+          "name": "avocado",
+          "quantity": "1/2"
+        },
+        {
+          "name": "lente ui",
+          "quantity": "1"
+        },
+        {
+          "name": "gele paprika",
+          "quantity": "1/2"
+        },
+        {
+          "name": "eetlepel zonnebloemolie",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepel sojasaus",
+          "quantity": "1"
+        },
+        {
+          "name": "sesamzaadjes ter garnering (zwart of wit, zwarte)",
+          "quantity": ""
+        },
+        {
+          "name": "theelepels azijn (rijst)",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepels mayonaise",
+          "quantity": "2"
+        }
+      ],
+      "description": "Temaki is een sushi handrol in de vorm van een hoorntje, gevuld met sushirijst en andere lekkere ingrediënten"
+    },
+    {
+      "id": "lr-002",
+      "source": "Leuke Recepten",
+      "name": "Jachtschotel met gehakt",
+      "url": "https://www.leukerecepten.nl/recepten/jachtschotel-met-gehakt/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/05/jachtschotel_met_gehakt.jpg",
+      "cook_time_min": 65,
+      "servings": null,
+      "tags": [
+        "Hoofdgerechten",
+        "Hollandse recepten"
+      ],
+      "dietary": [],
+      "cuisine": "Belgian/Dutch",
+      "contains": [
+        "mushroom"
+      ],
+      "ingredients": [
+        {
+          "name": "gr rundergehakt",
+          "quantity": "400"
+        },
+        {
+          "name": "gr champignons in plakjes",
+          "quantity": "250"
+        },
+        {
+          "name": "grote winterpeen",
+          "quantity": "1"
+        },
+        {
+          "name": "tomatenpuree (70 gr)",
+          "quantity": "1 blikje"
+        },
+        {
+          "name": "uien (gesnipped)",
+          "quantity": "2"
+        },
+        {
+          "name": "gr boter",
+          "quantity": "50"
+        },
+        {
+          "name": "gr aardappelen",
+          "quantity": "800"
+        },
+        {
+          "name": "snufje kaneel",
+          "quantity": ""
+        },
+        {
+          "name": "peper en zout",
+          "quantity": ""
+        },
+        {
+          "name": "blaadjes laurier",
+          "quantity": "2"
+        },
+        {
+          "name": "braeburn appels",
+          "quantity": "2"
+        },
+        {
+          "name": "grote ovenschaal",
+          "quantity": "1"
+        }
+      ],
+      "description": "Lekkere alles in een ovenschotel met gehakt, champignons en aardappelpuree afgedekt met fris zoete appels"
+    },
+    {
+      "id": "lr-003",
+      "source": "Leuke Recepten",
+      "name": "Bolo de bolacha",
+      "url": "https://www.leukerecepten.nl/recepten/bolo-de-bolacha/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/07/Bolo_de_bolacha.jpg",
+      "cook_time_min": 155,
+      "servings": null,
+      "tags": [
+        "Nagerechten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "nuts",
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "halfvolle melk",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "gecondenseerde melk",
+          "quantity": "1 blikje"
+        },
+        {
+          "name": "slagroom",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "eieren",
+          "quantity": "5"
+        },
+        {
+          "name": "rol maria koekjes",
+          "quantity": "1"
+        },
+        {
+          "name": "a 2 kopjes sterke koffie",
+          "quantity": "1"
+        },
+        {
+          "name": "theelepels suiker",
+          "quantity": "3"
+        },
+        {
+          "name": "kaneel",
+          "quantity": ""
+        },
+        {
+          "name": "amandel snippers",
+          "quantity": ""
+        },
+        {
+          "name": "plat bord of bodem van springvorm",
+          "quantity": ""
+        },
+        {
+          "name": "mixer",
+          "quantity": ""
+        }
+      ],
+      "description": "Krijg het vakantiegevoel en maak deze Portugese dessert-taart met koekjes en laagjes zoete crème nu zelf."
+    },
+    {
+      "id": "lr-004",
+      "source": "Leuke Recepten",
+      "name": "Kipspiesjes met honing mosterd",
+      "url": "https://www.leukerecepten.nl/recepten/kipspiesjes-met-honing-mosterd/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/07/kipspiesjes_met_honing_mosterd.jpg",
+      "cook_time_min": 35,
+      "servings": null,
+      "tags": [
+        "Hapjes en snacks",
+        "Spaanse recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "eetlepel olijfolie",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel honing",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel mosterd",
+          "quantity": "½"
+        },
+        {
+          "name": "zout en peper",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepel olijfolie om te bakken",
+          "quantity": "1"
+        },
+        {
+          "name": "spiesjes",
+          "quantity": "6"
+        },
+        {
+          "name": "kipfilets",
+          "quantity": "2"
+        }
+      ],
+      "description": "Lekker tijdens een tapasavondje of feestje; heerlijke kipspiesjes gemarineerd in honing-mosterd marinade."
+    },
+    {
+      "id": "lr-005",
+      "source": "Leuke Recepten",
+      "name": "Panini met mozzarella",
+      "url": "https://www.leukerecepten.nl/recepten/panini-met-mozzarella/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/07/panini_mozzarella.jpg",
+      "cook_time_min": 20,
+      "servings": null,
+      "tags": [
+        "Lunch",
+        "Italiaanse recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "stokbrood of 4 pistoletjes (afbak of vers)",
+          "quantity": "1"
+        },
+        {
+          "name": "bollen mozzarella",
+          "quantity": "2"
+        },
+        {
+          "name": "tomaten",
+          "quantity": "2"
+        },
+        {
+          "name": "peper en zout",
+          "quantity": ""
+        },
+        {
+          "name": "balsamico azijn",
+          "quantity": "50 ml"
+        },
+        {
+          "name": "paar blaadjes basilicum",
+          "quantity": ""
+        },
+        {
+          "name": "contactgrill",
+          "quantity": "1"
+        }
+      ],
+      "description": "Heerlijke zelfgemaakte Italiaanse panini met tomaat, mozzarella, balsamico en basilicum."
+    },
+    {
+      "id": "lr-006",
+      "source": "Leuke Recepten",
+      "name": "Soep met waterkers en erwtjes",
+      "url": "https://www.leukerecepten.nl/recepten/soep-met-waterkers-en-erwtjes/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/07/soep_met_waterkers_en_erwtjes.jpg",
+      "cook_time_min": 20,
+      "servings": null,
+      "tags": [
+        "Voorgerechten",
+        "Franse recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "gr waterkers",
+          "quantity": "75"
+        },
+        {
+          "name": "diepvries doperwtjes",
+          "quantity": "450"
+        },
+        {
+          "name": "prei",
+          "quantity": "1"
+        },
+        {
+          "name": "groentebouillon",
+          "quantity": "800 ml"
+        },
+        {
+          "name": "melk",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "eetlepels olijfolie",
+          "quantity": "2"
+        },
+        {
+          "name": "snufje chilipeper",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepels zure room",
+          "quantity": "4"
+        },
+        {
+          "name": "staafmixer of blender",
+          "quantity": ""
+        }
+      ],
+      "description": "Recept voor gezonde en lekkere soep met erwtjes, waterkers en prei, in 20 minuten op tafel."
+    },
+    {
+      "id": "lr-007",
+      "source": "Leuke Recepten",
+      "name": "Aardbeiencharlotte",
+      "url": "https://www.leukerecepten.nl/recepten/aardbeiencharlotte/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/08/aarbeiencharlotte.jpg",
+      "cook_time_min": 210,
+      "servings": null,
+      "tags": [
+        "Bakrecepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "blaadjes gelatine",
+          "quantity": "6"
+        },
+        {
+          "name": "gr aardbeien",
+          "quantity": "250"
+        },
+        {
+          "name": "slagroom",
+          "quantity": "250 ml"
+        },
+        {
+          "name": "eetlepels suiker",
+          "quantity": "3"
+        },
+        {
+          "name": "gr griekse yoghurt",
+          "quantity": "250"
+        },
+        {
+          "name": "lange vingers (a 175 gr)",
+          "quantity": "2 pakjes"
+        },
+        {
+          "name": "poedersuiker",
+          "quantity": ""
+        },
+        {
+          "name": "lint",
+          "quantity": ""
+        }
+      ],
+      "description": "Maak van het dessert een feest met deze heerlijke yoghurt-aardbeien taart met lange vingers"
+    },
+    {
+      "id": "lr-008",
+      "source": "Leuke Recepten",
+      "name": "Custard vla met banaan",
+      "url": "https://www.leukerecepten.nl/recepten/bananenpudding/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/09/bananenpudding.jpg",
+      "cook_time_min": 80,
+      "servings": null,
+      "tags": [
+        "Nagerechten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "gr suiker",
+          "quantity": "100"
+        },
+        {
+          "name": "theelepels maïzena",
+          "quantity": "2"
+        },
+        {
+          "name": "melk",
+          "quantity": "400 ml"
+        },
+        {
+          "name": "eidooiers",
+          "quantity": "4"
+        },
+        {
+          "name": "bananen",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepels walnoten (in stukjes)",
+          "quantity": "2"
+        },
+        {
+          "name": "zakje vanillesuiker",
+          "quantity": "1"
+        }
+      ],
+      "description": "Zelf gemaakte custard vla met plakjes banaan en walnoot"
+    },
+    {
+      "id": "lr-009",
+      "source": "Leuke Recepten",
+      "name": "Vijgentaartje",
+      "url": "https://www.leukerecepten.nl/recepten/vijgentaartje/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/09/vijgentaartje.jpg",
+      "cook_time_min": 45,
+      "servings": null,
+      "tags": [
+        "Bakrecepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "nuts"
+      ],
+      "ingredients": [
+        {
+          "name": "plakjes bladerdeeg (ontdooit)",
+          "quantity": "4"
+        },
+        {
+          "name": "snufje kaneel",
+          "quantity": ""
+        },
+        {
+          "name": "zakje vanillesuiker",
+          "quantity": ""
+        },
+        {
+          "name": "vijgen",
+          "quantity": "4"
+        },
+        {
+          "name": "eetlepels hazelnoten (of andere noten naar keuze)",
+          "quantity": "2"
+        },
+        {
+          "name": "gedroogde spliterwten (linzen of peulen om blind te bakken, of blindbakbonen als je die hebt)",
+          "quantity": ""
+        },
+        {
+          "name": "boter + om in te vetten",
+          "quantity": ""
+        },
+        {
+          "name": "bakpapier",
+          "quantity": ""
+        },
+        {
+          "name": "lage ovenbestendige schaaltjes",
+          "quantity": "4"
+        },
+        {
+          "name": "blindbakbonen",
+          "quantity": ""
+        },
+        {
+          "name": "keukenmachine",
+          "quantity": ""
+        },
+        {
+          "name": "deegroller",
+          "quantity": ""
+        }
+      ],
+      "description": "Wat een heerlijke herfst combi zijn deze bladerdeegtaartjes met kaneelmascarpone, verse vijgen en noten."
+    },
+    {
+      "id": "lr-010",
+      "source": "Leuke Recepten",
+      "name": "Turkse feta rolletjes",
+      "url": "https://www.leukerecepten.nl/recepten/turkse-feta-rolletjes/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2024/03/turkse_feta_rolletjes.jpg",
+      "cook_time_min": 40,
+      "servings": null,
+      "tags": [
+        "Hapjes en snacks",
+        "Turkse recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "gr feta (of witte kaas)",
+          "quantity": "200"
+        },
+        {
+          "name": "bosje verse peterselie (fijn gesneden)",
+          "quantity": ""
+        },
+        {
+          "name": "zwarte peper",
+          "quantity": ""
+        },
+        {
+          "name": "eitje (gesplitst)",
+          "quantity": "1"
+        },
+        {
+          "name": "vellen filodeeg (ontdooid, bv easy filo bladerdeeg)",
+          "quantity": "3"
+        },
+        {
+          "name": "zonnebloemolie",
+          "quantity": ""
+        }
+      ],
+      "description": "Lekker hartig Turks hapje van fetakaas in filodeeg, ook wel sigara boregi genoemd. Heerlijk op smaak gebracht met verse peterselie. Dit hapje is leuk om te serveren bij de Turkse Mezze of op een feestje."
+    },
+    {
+      "id": "lr-011",
+      "source": "Leuke Recepten",
+      "name": "Klepon",
+      "url": "https://www.leukerecepten.nl/recepten/klepon/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/12/klepon.jpg",
+      "cook_time_min": 35,
+      "servings": null,
+      "tags": [
+        "Hapjes en snacks",
+        "Aziatische recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "water",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "druppels groene pandan pasta",
+          "quantity": "8"
+        },
+        {
+          "name": "gr goela djawa (palmsuiker)",
+          "quantity": "50"
+        },
+        {
+          "name": "eetlepels geraspte kokos",
+          "quantity": "5"
+        },
+        {
+          "name": "gr ketan meel (kleefrijstmeel)",
+          "quantity": "100"
+        },
+        {
+          "name": "zout",
+          "quantity": "1 snufje"
+        }
+      ],
+      "description": "Heerlijk zoet en makkelijk te bereiden Indisch hapje met palmsuiker en kokos."
+    },
+    {
+      "id": "lr-012",
+      "source": "Leuke Recepten",
+      "name": "Indische pasteitjes",
+      "url": "https://www.leukerecepten.nl/recepten/indische-pasteitjes/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/12/Indonesische_pasteitjes.jpg",
+      "cook_time_min": 45,
+      "servings": null,
+      "tags": [
+        "Hapjes en snacks",
+        "Aziatische recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "beef",
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "gr gehakt",
+          "quantity": "200"
+        },
+        {
+          "name": "hard gekookte eieren",
+          "quantity": "2"
+        },
+        {
+          "name": "teentjes knoflook",
+          "quantity": "3"
+        },
+        {
+          "name": "bosje selderij",
+          "quantity": "0,5"
+        },
+        {
+          "name": "runderbouillonblokje",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel ketjap manis",
+          "quantity": "1"
+        },
+        {
+          "name": "ui",
+          "quantity": "1"
+        },
+        {
+          "name": "gr geraspte wortel",
+          "quantity": "50"
+        },
+        {
+          "name": "eetlepel olie",
+          "quantity": "1"
+        },
+        {
+          "name": "ei",
+          "quantity": "1"
+        },
+        {
+          "name": "gr bloem",
+          "quantity": "350"
+        },
+        {
+          "name": "scheut warm water",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepels olie om in te bakken",
+          "quantity": "2"
+        }
+      ],
+      "description": "Heerlijke met gehakt en selderij gevulde Indische pasteitjes. Lekker als bijgerecht, als snack tussendoor of bij de borrel."
+    },
+    {
+      "id": "lr-013",
+      "source": "Leuke Recepten",
+      "name": "Varkenshaasmedaillons met peperroomsaus",
+      "url": "https://www.leukerecepten.nl/recepten/varkenshaasmedaillons-met-peperroomsaus/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/12/varkenshaasmedaillons_met_pepersaus.jpg",
+      "cook_time_min": 30,
+      "servings": null,
+      "tags": [
+        "Hoofdgerechten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "varkenshaasmedaillons (à 125 gram)",
+          "quantity": "4"
+        },
+        {
+          "name": "plakjes ontbijtspek",
+          "quantity": "8"
+        },
+        {
+          "name": "gr boter",
+          "quantity": "30"
+        },
+        {
+          "name": "gr bloem",
+          "quantity": "30"
+        },
+        {
+          "name": "sjalotje (heel fijn gesnipperd)",
+          "quantity": "1"
+        },
+        {
+          "name": "runderbouillon (van tablet)",
+          "quantity": "350 ml"
+        },
+        {
+          "name": "eetlepels groene peperkorrels (op sap, geen gedroogde)",
+          "quantity": "2"
+        },
+        {
+          "name": "theelepel mosterd",
+          "quantity": "0,5"
+        },
+        {
+          "name": "gr crème fraîche",
+          "quantity": "75"
+        },
+        {
+          "name": "peper en zout",
+          "quantity": ""
+        },
+        {
+          "name": "vlaamse frieten",
+          "quantity": ""
+        }
+      ],
+      "description": "Malse varkenshaas omwikkeld met spek geserveerd met een romige pepersaus"
+    },
+    {
+      "id": "lr-014",
+      "source": "Leuke Recepten",
+      "name": "Croissants met brie",
+      "url": "https://www.leukerecepten.nl/recepten/croissants-met-brie/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/12/croissant_met_brie.jpg",
+      "cook_time_min": 15,
+      "servings": null,
+      "tags": [
+        "Lunch",
+        "Franse recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "croissants",
+          "quantity": "4"
+        },
+        {
+          "name": "peren",
+          "quantity": "2"
+        },
+        {
+          "name": "gr brie",
+          "quantity": "150"
+        },
+        {
+          "name": "eetlepel honing",
+          "quantity": "1"
+        },
+        {
+          "name": "pecannoten",
+          "quantity": ""
+        },
+        {
+          "name": "handje sla",
+          "quantity": ""
+        }
+      ],
+      "description": "Makkelijk en snel een lekkere lunch op tafel met deze croissants met brie, peer en pecannoten"
+    },
+    {
+      "id": "lr-015",
+      "source": "Leuke Recepten",
+      "name": "Koninginnesoep",
+      "url": "https://www.leukerecepten.nl/recepten/koninginnesoep/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2012/12/koninginnesoep.jpg",
+      "cook_time_min": 30,
+      "servings": null,
+      "tags": [
+        "Voorgerechten",
+        "Franse recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "gr boter",
+          "quantity": "35"
+        },
+        {
+          "name": "gr bloem",
+          "quantity": "35"
+        },
+        {
+          "name": "kipfilet (klein)",
+          "quantity": "1"
+        },
+        {
+          "name": "kippenbouillon",
+          "quantity": "1250 ml"
+        },
+        {
+          "name": "gr diepvries doperwten",
+          "quantity": "75"
+        },
+        {
+          "name": "gr worteltjes",
+          "quantity": "100"
+        },
+        {
+          "name": "slagroom",
+          "quantity": "100 ml"
+        },
+        {
+          "name": "verse peterselie",
+          "quantity": ""
+        },
+        {
+          "name": "laurierblaadje",
+          "quantity": "1"
+        },
+        {
+          "name": "sjalotje",
+          "quantity": "1"
+        }
+      ],
+      "description": "Lekkere koninginnesoep met kip, wortel en erwtjes. Je maakt het makkelijk en snel zelf!"
+    },
+    {
+      "id": "lr-016",
+      "source": "Leuke Recepten",
+      "name": "Vlaai met bramenjam",
+      "url": "https://www.leukerecepten.nl/recepten/vlaai-met-bramenjam/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/01/bramenvlaai.jpg",
+      "cook_time_min": 95,
+      "servings": null,
+      "tags": [
+        "Bakrecepten",
+        "Hollandse recepten"
+      ],
+      "dietary": [],
+      "cuisine": "Belgian/Dutch",
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "gr bloem (+ om te bestuiven)",
+          "quantity": "350"
+        },
+        {
+          "name": "theelepel bakpoeder",
+          "quantity": "1.5"
+        },
+        {
+          "name": "zout",
+          "quantity": "1 snufje"
+        },
+        {
+          "name": "gr suiker (+ 1 eetlepel)",
+          "quantity": "175"
+        },
+        {
+          "name": "gr boter (in kleine stukjes)",
+          "quantity": "150"
+        },
+        {
+          "name": "boter + om in te vetten",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepels melk",
+          "quantity": "3"
+        },
+        {
+          "name": "eieren",
+          "quantity": "2"
+        },
+        {
+          "name": "zakje vanillesuiker",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel paneermeel",
+          "quantity": "1"
+        },
+        {
+          "name": "gr bramenjam (zelfgemaakt)",
+          "quantity": "450"
+        }
+      ],
+      "description": "Leuk recept voor een heerlijke vlaai met (zelfgemaakte) bramenjam. Je kunt natuurlijk ook een andere jam naar keuze gebruiken."
+    },
+    {
+      "id": "lr-017",
+      "source": "Leuke Recepten",
+      "name": "Plaatpizza met parmaham en pesto",
+      "url": "https://www.leukerecepten.nl/recepten/plaatpizza-met-parmaham-en-pesto/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/01/plaatpizza_parmaham_pesto.jpg",
+      "cook_time_min": 55,
+      "servings": null,
+      "tags": [
+        "Hoofdgerechten",
+        "Italiaanse recepten"
+      ],
+      "dietary": [],
+      "cuisine": "Italian",
+      "contains": [
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "mix voor pizzabodem (koopmans)",
+          "quantity": "1"
+        },
+        {
+          "name": "courgette",
+          "quantity": "1"
+        },
+        {
+          "name": "gele paprika",
+          "quantity": "1"
+        },
+        {
+          "name": "bollen mozzarella",
+          "quantity": "2"
+        },
+        {
+          "name": "gr tomatensaus (passata di pomodoro)",
+          "quantity": "200"
+        },
+        {
+          "name": "plakjes parmaham",
+          "quantity": "4"
+        },
+        {
+          "name": "gr rucola",
+          "quantity": "75"
+        },
+        {
+          "name": "eetlepels pijnboompitten",
+          "quantity": "2"
+        },
+        {
+          "name": "eetlepels parmezaanse kaas",
+          "quantity": "5"
+        },
+        {
+          "name": "teentje knoflook",
+          "quantity": "1"
+        },
+        {
+          "name": "olijfolie (+ scheutje)",
+          "quantity": "50 ml"
+        },
+        {
+          "name": "peper en zout",
+          "quantity": ""
+        }
+      ],
+      "description": "Rijk belegde plaatpizza met courgette, paprika, mozzarella, parmaham en zelfgemaakte pesto"
+    },
+    {
+      "id": "lr-018",
+      "source": "Leuke Recepten",
+      "name": "Jamkoekjes",
+      "url": "https://www.leukerecepten.nl/recepten/jamkoekjes/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/02/jamkoekjes.jpg",
+      "cook_time_min": 30,
+      "servings": null,
+      "tags": [
+        "Bakrecepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "gr zelfrijzend bakmeel",
+          "quantity": "200"
+        },
+        {
+          "name": "gr witte bastersuiker",
+          "quantity": "100"
+        },
+        {
+          "name": "ei",
+          "quantity": "1"
+        },
+        {
+          "name": "gr boter",
+          "quantity": "100"
+        },
+        {
+          "name": "eetlepels jam",
+          "quantity": "3"
+        },
+        {
+          "name": "bloem (om te bestuiven)",
+          "quantity": ""
+        },
+        {
+          "name": "vormpjes",
+          "quantity": ""
+        },
+        {
+          "name": "bakplaat en bakpapier",
+          "quantity": ""
+        }
+      ],
+      "description": "Leuk om deze jamkoekjes met de kinderen te maken of in hartjesvorm voor Valentijn. Makkelijk te maken met maar een paar basisingrediënten!"
+    },
+    {
+      "id": "lr-019",
+      "source": "Leuke Recepten",
+      "name": "Appel-room vlaai",
+      "url": "https://www.leukerecepten.nl/recepten/appel-room-vlaai/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/03/appel_roomvlaai.jpg",
+      "cook_time_min": 70,
+      "servings": null,
+      "tags": [
+        "Bakrecepten",
+        "Hollandse recepten"
+      ],
+      "dietary": [],
+      "cuisine": "Belgian/Dutch",
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "gr suiker",
+          "quantity": "100"
+        },
+        {
+          "name": "gr bloem (+ om te bestuiven)",
+          "quantity": "300"
+        },
+        {
+          "name": "gr zachte boter",
+          "quantity": "200"
+        },
+        {
+          "name": "ei",
+          "quantity": "1"
+        },
+        {
+          "name": "gr boter (gesmolten)",
+          "quantity": "125"
+        },
+        {
+          "name": "eieren",
+          "quantity": "3"
+        },
+        {
+          "name": "gr maïzena",
+          "quantity": "30"
+        },
+        {
+          "name": "melk",
+          "quantity": "250 ml"
+        },
+        {
+          "name": "slagroom",
+          "quantity": "250 ml"
+        },
+        {
+          "name": "gr custard poeder",
+          "quantity": "30"
+        },
+        {
+          "name": "zakje vanillesuiker",
+          "quantity": "1"
+        },
+        {
+          "name": "gr suiker",
+          "quantity": "175"
+        },
+        {
+          "name": "grote appels",
+          "quantity": "2"
+        },
+        {
+          "name": "snufje kaneel",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepel citroensap",
+          "quantity": "1"
+        },
+        {
+          "name": "eetlepel suiker",
+          "quantity": "3"
+        },
+        {
+          "name": "eetlepel abrikozenjam",
+          "quantity": "2"
+        }
+      ],
+      "description": "Lekker recept voor vlaai met een knapperige bodem met banketbakkersroom en schijfjes appel en kaneel"
+    },
+    {
+      "id": "lr-020",
+      "source": "Leuke Recepten",
+      "name": "Omeletrolletjes met spinazie",
+      "url": "https://www.leukerecepten.nl/recepten/omeletrolletjes-met-spinazie/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/03/omeletrolletjes_met_spinazie.jpg",
+      "cook_time_min": 25,
+      "servings": null,
+      "tags": [
+        "Hapjes en snacks"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "eieren",
+          "quantity": "5"
+        },
+        {
+          "name": "gr verse spinazie",
+          "quantity": "150"
+        },
+        {
+          "name": "eetlepels pijnboompitten (geroosterd)",
+          "quantity": "4"
+        },
+        {
+          "name": "peper en zout",
+          "quantity": ""
+        },
+        {
+          "name": "gr geitenkaas",
+          "quantity": "100"
+        },
+        {
+          "name": "boter om te bakken",
+          "quantity": ""
+        },
+        {
+          "name": "prikkers",
+          "quantity": ""
+        }
+      ],
+      "description": "Een leuk gerecht voor een high tea of een picknick: omeletrolletjes met spinazie, gevuld met geitenkaas en pijnboompitten. Ook lekker om als lunch te eten."
+    },
+    {
+      "id": "lr-021",
+      "source": "Leuke Recepten",
+      "name": "Pasta met zeevruchten",
+      "url": "https://www.leukerecepten.nl/recepten/pasta-met-zeevruchten/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/04/pasta_met_zeevruchten.jpg",
+      "cook_time_min": 40,
+      "servings": null,
+      "tags": [
+        "Hoofdgerechten",
+        "Italiaanse recepten"
+      ],
+      "dietary": [],
+      "cuisine": "Italian",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "gr garnalen",
+          "quantity": "100"
+        },
+        {
+          "name": "gr mosselen",
+          "quantity": "500"
+        },
+        {
+          "name": "witte wijn",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "teentjes koflook",
+          "quantity": "2"
+        },
+        {
+          "name": "rode peper",
+          "quantity": "1"
+        },
+        {
+          "name": "ui (gesnipperd)",
+          "quantity": "1"
+        },
+        {
+          "name": "zout en peper",
+          "quantity": ""
+        },
+        {
+          "name": "scheut olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "gr peterselie",
+          "quantity": "5"
+        }
+      ],
+      "description": "Ontdek onze heerlijke pasta met zeevruchten, een smaakvol hoofdgerecht met garnalen, mosselen en een vleugje witte wijn. Perfect voor een lekkere avondmaaltijd."
+    },
+    {
+      "id": "lr-022",
+      "source": "Leuke Recepten",
+      "name": "Ravioli met champignonvulling",
+      "url": "https://www.leukerecepten.nl/recepten/ravioli-met-champignonvulling/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/04/ravioli_met_champignonvulling.jpg",
+      "cook_time_min": 60,
+      "servings": null,
+      "tags": [
+        "Voorgerechten",
+        "Italiaanse recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "mushroom",
+        "egg",
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "gr durum meel (te koop bij speciaalzaak, ah of jumbo))",
+          "quantity": "200"
+        },
+        {
+          "name": "eieren",
+          "quantity": "2"
+        },
+        {
+          "name": "eieren",
+          "quantity": ""
+        },
+        {
+          "name": "bakje kastanjechampignons",
+          "quantity": "1"
+        },
+        {
+          "name": "uitje",
+          "quantity": "1"
+        },
+        {
+          "name": "gr geraspte kaas",
+          "quantity": "50"
+        },
+        {
+          "name": "peper en zout",
+          "quantity": ""
+        },
+        {
+          "name": "gr roomboter",
+          "quantity": "50"
+        },
+        {
+          "name": "verse salie",
+          "quantity": ""
+        },
+        {
+          "name": "keukenmachine of blender",
+          "quantity": ""
+        },
+        {
+          "name": "pastamachine",
+          "quantity": ""
+        },
+        {
+          "name": "raviolistamper",
+          "quantity": ""
+        }
+      ],
+      "description": "Lekkere vers gemaakte vegetarische pasta met een vulling van champignons en overgoten met salieboter."
+    },
+    {
+      "id": "lr-023",
+      "source": "Leuke Recepten",
+      "name": "Biefstuksalade met balsamicodressing",
+      "url": "https://www.leukerecepten.nl/recepten/biefstuksalade-met-balsamicodressing/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/04/biefstuksalade_met_balsamico.jpg",
+      "cook_time_min": 30,
+      "servings": null,
+      "tags": [
+        "Hoofdgerechten",
+        "Italiaanse recepten"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "mushroom",
+        "beef"
+      ],
+      "ingredients": [
+        {
+          "name": "gr biefstuk (op kamertemperatuur)",
+          "quantity": "400"
+        },
+        {
+          "name": "scheutje olijfolie",
+          "quantity": ""
+        },
+        {
+          "name": "gr gemengde sla",
+          "quantity": "160"
+        },
+        {
+          "name": "appels",
+          "quantity": "2"
+        },
+        {
+          "name": "gr kastanjechampignons",
+          "quantity": "250"
+        },
+        {
+          "name": "gr grana padano snippers",
+          "quantity": "100"
+        },
+        {
+          "name": "eetlepels olijfolie",
+          "quantity": "5"
+        },
+        {
+          "name": "eetlepels balsamicoazijn",
+          "quantity": "2"
+        },
+        {
+          "name": "peper en zout",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepels honing",
+          "quantity": "2"
+        }
+      ],
+      "description": "Lekkere en snelle maaltijdsalade met appel, champignons en biefstuk met een heerlijke balsamicodressing. Maak zelf de dressing van olijfolie, balsamicoazijn, honing en een snufje peper en zout voor een verrukkelijke smaak. Hussel alles same"
+    },
+    {
+      "id": "lr-024",
+      "source": "Leuke Recepten",
+      "name": "Omeletrolletjes met paprika",
+      "url": "https://www.leukerecepten.nl/recepten/omeletrolletjes-met-paprika/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/04/omeletrolletjes_met_paprika.jpg",
+      "cook_time_min": 20,
+      "servings": null,
+      "tags": [
+        "Hapjes en snacks"
+      ],
+      "dietary": [],
+      "cuisine": null,
+      "contains": [
+        "egg"
+      ],
+      "ingredients": [
+        {
+          "name": "eieren",
+          "quantity": "4"
+        },
+        {
+          "name": "pot rode geroosterde paprika’s",
+          "quantity": "1"
+        },
+        {
+          "name": "peper en zout",
+          "quantity": ""
+        },
+        {
+          "name": "handje rucola sla",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepels roomkaas (bv. philadelphia)",
+          "quantity": "3"
+        },
+        {
+          "name": "klontje boter",
+          "quantity": ""
+        },
+        {
+          "name": "prikkers",
+          "quantity": ""
+        }
+      ],
+      "description": "Hartig hapje van omeletrolletjes met gegrilde paprika, gevuld met roomkaas en rucola. Ook lekker bij een picknick, als tussendoortje of als lunch."
+    },
+    {
+      "id": "lr-025",
+      "source": "Leuke Recepten",
+      "name": "Frisse rode bietensap",
+      "url": "https://www.leukerecepten.nl/recepten/frisse-rode-bietensap/",
+      "image": "https://www.leukerecepten.nl/app/uploads/2013/04/rodebietensap.jpg",
+      "cook_time_min": 10,
+      "servings": null,
+      "tags": [
+        "Drankjes",
+        "Hollandse recepten"
+      ],
+      "dietary": [],
+      "cuisine": "Belgian/Dutch",
+      "contains": [],
+      "ingredients": [
+        {
+          "name": "rauwe rode biet",
+          "quantity": "0.5"
+        },
+        {
+          "name": "citroen",
+          "quantity": "0.5"
+        },
+        {
+          "name": "appel",
+          "quantity": "0.25"
+        },
+        {
+          "name": "water",
+          "quantity": "350 ml"
+        },
+        {
+          "name": "eetlepel honing",
+          "quantity": "1"
+        },
+        {
+          "name": "blender",
+          "quantity": ""
+        },
+        {
+          "name": "zeef",
+          "quantity": ""
+        }
+      ],
+      "description": "Deze bietensap is niet alleen gezond maar is ook lekker fris van smaak door de appel en citroen. Voor een energieke start van de dag."
+    }
+  ]
 }
