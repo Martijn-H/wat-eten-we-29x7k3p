@@ -1,8 +1,131 @@
 {
-  "generated_at": "2026-05-15",
+  "generated_at": "2026-05-18",
   "recipes": [
     {
       "id": "dk-001",
+      "source": "Dagelijkse Kost",
+      "name": "Pasta half en half van Jeroen Meus: spaghetti met vleessaus van gehakt en tomaat, afgewerkt met kaasige bechamelsaus.",
+      "url": "https://dagelijksekost.vrt.be/gerechten/pasta-half-en-half",
+      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/1od0MQPyeTn5dyJACHUY/1778849121676_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=bCmFJMvNEzXxNf2ar46lT0sFoi2PBKwl9B8GhQIA%2BW6OV1wCquJL3KF6xRro3jHIWuHW1%2FYbymcJzrpcP9hTyNv%2BJDBhKJnyH5SAmjMlYa0WTDWdX5%2BMQts1dLH4JKs7pkDrEAa49yEZm1xzbHe2MhUnNHrFTxw2hqYizehbqFX9TtQ24h6HCiHRqLK%2BZViDzhpsAg%2B7cLImhuxH5GgM2U1QCYeR7qVWkh8pPsFXLD2zGdJaufQCNVSM6PHioI7P95wPo9aJ9Vcmb5TKwnPdsY2mDnlqRys%2B2z8LVgv6EY6L3569AGAseOXflaSNK333Nw3TAH7n0ZJwmUT2AKbtCQ%3D%3D",
+      "cook_time_min": 50,
+      "servings": 4,
+      "tags": [
+        "Comfortfood",
+        "Ovenschotel",
+        "Pasta",
+        "Vlees",
+        "Hoofdgerecht",
+        "Hoofdgerecht",
+        "Italiaans"
+      ],
+      "dietary": [],
+      "cuisine": "Italian",
+      "contains": [
+        "beef",
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "gemengd gehakt",
+          "quantity": "800 gram"
+        },
+        {
+          "name": "uien",
+          "quantity": "3"
+        },
+        {
+          "name": "teentjes look",
+          "quantity": "3"
+        },
+        {
+          "name": "wortelen",
+          "quantity": "3"
+        },
+        {
+          "name": "stengels selder",
+          "quantity": "4"
+        },
+        {
+          "name": "oregano",
+          "quantity": ""
+        },
+        {
+          "name": "eetlepel harissa",
+          "quantity": "2"
+        },
+        {
+          "name": "tomatenpuree",
+          "quantity": "140 gram"
+        },
+        {
+          "name": "deciliter witte wijn",
+          "quantity": "2"
+        },
+        {
+          "name": "blikken gepelde tomaten",
+          "quantity": "2"
+        },
+        {
+          "name": "bloem",
+          "quantity": "40 gram"
+        },
+        {
+          "name": "boter",
+          "quantity": "40 gram"
+        },
+        {
+          "name": "deciliter melk",
+          "quantity": "4"
+        },
+        {
+          "name": "gemalen kaas (emmental)",
+          "quantity": "100 gram"
+        },
+        {
+          "name": "parmezaan",
+          "quantity": "50 gram"
+        },
+        {
+          "name": "piment d'espelette",
+          "quantity": ""
+        },
+        {
+          "name": "citroensap",
+          "quantity": ""
+        },
+        {
+          "name": "spaghetti",
+          "quantity": "400 gram"
+        },
+        {
+          "name": "olie",
+          "quantity": ""
+        },
+        {
+          "name": "peper",
+          "quantity": ""
+        },
+        {
+          "name": "zout",
+          "quantity": ""
+        },
+        {
+          "name": "provençaalse kruiden",
+          "quantity": ""
+        },
+        {
+          "name": "venkelzaad",
+          "quantity": ""
+        },
+        {
+          "name": "paprikapoeder",
+          "quantity": ""
+        }
+      ],
+      "description": "Pasta half en half van Jeroen Meus: spaghetti met vleessaus van gehakt en tomaat, afgewerkt met kaasige bechamelsaus."
+    },
+    {
+      "id": "dk-002",
       "source": "Dagelijkse Kost",
       "name": "Jeroen Meus maakt pad khee mao, Thaise drunken noodles met brede rijstnoedels, groenten en pittige saus.",
       "url": "https://dagelijksekost.vrt.be/gerechten/pad-khee-mao-drunken-noodles",
@@ -99,7 +222,7 @@
       "description": "Jeroen Meus maakt pad khee mao, Thaise drunken noodles met brede rijstnoedels, groenten en pittige saus."
     },
     {
-      "id": "dk-002",
+      "id": "dk-003",
       "source": "Dagelijkse Kost",
       "name": "Kip in romige tomatensaus van Jeroen Meus met gebakken aardappelen en sla.",
       "url": "https://dagelijksekost.vrt.be/gerechten/kip-in-romige-tomatensaus-met-gebakken-aardappelen-en-sla",
@@ -216,7 +339,7 @@
       "description": "Kip in romige tomatensaus van Jeroen Meus met gebakken aardappelen en sla."
     },
     {
-      "id": "dk-003",
+      "id": "dk-004",
       "source": "Dagelijkse Kost",
       "name": "Bavarois van banaan van Jeroen Meus met karamelsaus en geroosterde pinda's.",
       "url": "https://dagelijksekost.vrt.be/gerechten/bavarois-van-banaan-met-karamelsaus-en-geroosterde-pindas",
@@ -294,7 +417,7 @@
       "description": "Bavarois van banaan van Jeroen Meus met karamelsaus en geroosterde pinda's."
     },
     {
-      "id": "dk-004",
+      "id": "dk-005",
       "source": "Dagelijkse Kost",
       "name": "Schelvisschnitzel van Jeroen Meus met gepaneerde schelvisfilet, venkelcoleslaw en vastkookaardappelen.",
       "url": "https://dagelijksekost.vrt.be/gerechten/schelvis-schnitzel-met-venkelcoleslaw-en-vastkookaardappelen",
@@ -394,7 +517,7 @@
       "description": "Schelvisschnitzel van Jeroen Meus met gepaneerde schelvisfilet, venkelcoleslaw en vastkookaardappelen."
     },
     {
-      "id": "dk-005",
+      "id": "dk-006",
       "source": "Dagelijkse Kost",
       "name": "Aardappelballetjes gevuld met scamorza van Jeroen Meus met botersaus van salie en broccolini.",
       "url": "https://dagelijksekost.vrt.be/gerechten/aardappelballetjes-gevuld-met-scamorza-botersaus-met-salie-en-broccolini",
@@ -455,7 +578,7 @@
       "description": "Aardappelballetjes gevuld met scamorza van Jeroen Meus met botersaus van salie en broccolini."
     },
     {
-      "id": "dk-006",
+      "id": "dk-007",
       "source": "Dagelijkse Kost",
       "name": "Chiffoncake van Jeroen Meus met verse aardbeien, slagroom en geroosterde amandelschilfers.",
       "url": "https://dagelijksekost.vrt.be/gerechten/chiffoncake-met-aardbeien-en-slagroom",
@@ -546,7 +669,7 @@
       "description": "Chiffoncake van Jeroen Meus met verse aardbeien, slagroom en geroosterde amandelschilfers."
     },
     {
-      "id": "dk-007",
+      "id": "dk-008",
       "source": "Dagelijkse Kost",
       "name": "Kabeljauw met aspergepuree van Jeroen Meus, gegaard in witte wijn en geserveerd met een Hollandaisesaus van daslook.",
       "url": "https://dagelijksekost.vrt.be/gerechten/kabeljauw-met-aspergepuree-en-hollandaise-met-daslook",
@@ -638,7 +761,7 @@
       "description": "Kabeljauw met aspergepuree van Jeroen Meus, gegaard in witte wijn en geserveerd met een Hollandaisesaus van daslook."
     },
     {
-      "id": "dk-008",
+      "id": "dk-009",
       "source": "Dagelijkse Kost",
       "name": "Gebraiseerde lamsnek van Jeroen Meus met graanmosterd en munt, geserveerd met tomatenbulgur met harissa en aubergines.",
       "url": "https://dagelijksekost.vrt.be/gerechten/gebraiseerde-lamsnek-met-mosterd-en-munt-en-tomatenbulgur-met-aubergines",
@@ -741,7 +864,7 @@
       "description": "Gebraiseerde lamsnek van Jeroen Meus met graanmosterd en munt, geserveerd met tomatenbulgur met harissa en aubergines."
     },
     {
-      "id": "dk-009",
+      "id": "dk-010",
       "source": "Dagelijkse Kost",
       "name": "Bloemkool in zoetzure saus met groenten en rijst: krokant gebakken bloemkoolroosjes in een pittige saus van gember, look, sweet chili en appelazijn, met kleurrijke groenten en langkorrelrijst.",
       "url": "https://dagelijksekost.vrt.be/gerechten/bloemkool-in-zoetzure-saus-met-groenten-en-rijst",
@@ -857,7 +980,7 @@
       "description": "Bloemkool in zoetzure saus met groenten en rijst: krokant gebakken bloemkoolroosjes in een pittige saus van gember, look, sweet chili en appelazijn, met kleurrijke groenten en langkorrelrijst."
     },
     {
-      "id": "dk-010",
+      "id": "dk-011",
       "source": "Dagelijkse Kost",
       "name": "Zalmballetjes van Jeroen Meus met avocadolabneh, kruidensalade en witkopradijsjes. Krokant van buiten, met gerookte en rauwe zalm.",
       "url": "https://dagelijksekost.vrt.be/gerechten/zalmballetjes-met-avocadolabneh-en-kruidensalade",
@@ -979,7 +1102,7 @@
       "description": "Zalmballetjes van Jeroen Meus met avocadolabneh, kruidensalade en witkopradijsjes. Krokant van buiten, met gerookte en rauwe zalm."
     },
     {
-      "id": "dk-011",
+      "id": "dk-012",
       "source": "Dagelijkse Kost",
       "name": "Jeroen Meus maakt loaded fries met langzaam gegaarde pulled chicken, gesmolten cheddar en een zelfgemaakte jalapeñomayo.",
       "url": "https://dagelijksekost.vrt.be/gerechten/loaded-fries-pulled-chicken-jalapenomaiyonaise",
@@ -1126,7 +1249,7 @@
       "description": "Jeroen Meus maakt loaded fries met langzaam gegaarde pulled chicken, gesmolten cheddar en een zelfgemaakte jalapeñomayo."
     },
     {
-      "id": "dk-012",
+      "id": "dk-013",
       "source": "Dagelijkse Kost",
       "name": "Eton mess van Jeroen Meus met gebroken meringue, mascarponeroom met limoen en vanille, verse frambozen en een coulis met violettesiroop.",
       "url": "https://dagelijksekost.vrt.be/gerechten/eton-mess-frambozen-violette",
@@ -1191,7 +1314,7 @@
       "description": "Eton mess van Jeroen Meus met gebroken meringue, mascarponeroom met limoen en vanille, verse frambozen en een coulis met violettesiroop."
     },
     {
-      "id": "dk-013",
+      "id": "dk-014",
       "source": "Dagelijkse Kost",
       "name": "Recept van Jeroen Meus: orecchiette met een saus van erwtjes en geitenkaas, afgewerkt met pecorino en een gremolata van peterselie en citroen.",
       "url": "https://dagelijksekost.vrt.be/gerechten/orecchiette-geitenkaas-erwtjes",
@@ -1287,7 +1410,7 @@
       "description": "Recept van Jeroen Meus: orecchiette met een saus van erwtjes en geitenkaas, afgewerkt met pecorino en een gremolata van peterselie en citroen."
     },
     {
-      "id": "dk-014",
+      "id": "dk-015",
       "source": "Dagelijkse Kost",
       "name": "Jeroen Meus maakt een goudbruin gebakken varkenskotelet met gebraiseerde jonge wortelen, aardappelpuree met tuinkers en een tijmsaus van rode wijn.",
       "url": "https://dagelijksekost.vrt.be/gerechten/kotelet-jonge-wortelen-puree-tuinkers-tijmsaus",
@@ -1390,7 +1513,7 @@
       "description": "Jeroen Meus maakt een goudbruin gebakken varkenskotelet met gebraiseerde jonge wortelen, aardappelpuree met tuinkers en een tijmsaus van rode wijn."
     },
     {
-      "id": "dk-015",
+      "id": "dk-016",
       "source": "Dagelijkse Kost",
       "name": "Roerei van Jeroen Meus met gepocheerde witte asperges, gerookte zalm en postelein, afgewerkt met mierikswortelpasta.",
       "url": "https://dagelijksekost.vrt.be/gerechten/roerei-asperges-gerookte-zalm",
@@ -1461,7 +1584,7 @@
       "description": "Roerei van Jeroen Meus met gepocheerde witte asperges, gerookte zalm en postelein, afgewerkt met mierikswortelpasta."
     },
     {
-      "id": "dk-016",
+      "id": "dk-017",
       "source": "Dagelijkse Kost",
       "name": "Briochetaart van Jeroen Meus met vanillepudding, rozijnen en een luchtig gistdeeg, afgewerkt met abrikozengelei en citroenglazeruur.",
       "url": "https://dagelijksekost.vrt.be/gerechten/briochetaart",
@@ -1551,7 +1674,7 @@
       "description": "Briochetaart van Jeroen Meus met vanillepudding, rozijnen en een luchtig gistdeeg, afgewerkt met abrikozengelei en citroenglazeruur."
     },
     {
-      "id": "dk-017",
+      "id": "dk-018",
       "source": "Dagelijkse Kost",
       "name": "Jeroen Meus maakt een rollade van konijn gevuld met spek en lever, met geroosterde aardappelen en een radicchiosalade met sinaasappel.",
       "url": "https://dagelijksekost.vrt.be/gerechten/rollade-van-konijn-met-geroosterde-aardappelen-en-radiccio-salade-met-sinaasappel",
@@ -1652,7 +1775,7 @@
       "description": "Jeroen Meus maakt een rollade van konijn gevuld met spek en lever, met geroosterde aardappelen en een radicchiosalade met sinaasappel."
     },
     {
-      "id": "dk-018",
+      "id": "dk-019",
       "source": "Dagelijkse Kost",
       "name": "Salade met gegrilde asperges en Mortadella van Jeroen Meus, afgewerkt met een zelfgemaakte pesto van Oude Flandrien en pijnboompitten.",
       "url": "https://dagelijksekost.vrt.be/gerechten/salade-met-gegrilde-asperges-tomaat-mortadella-en-pesto-met-flandrien",
@@ -1747,7 +1870,7 @@
       "description": "Salade met gegrilde asperges en Mortadella van Jeroen Meus, afgewerkt met een zelfgemaakte pesto van Oude Flandrien en pijnboompitten."
     },
     {
-      "id": "dk-019",
+      "id": "dk-020",
       "source": "Dagelijkse Kost",
       "name": "Tempura van hondshaai van Jeroen Meus met een knapperige daikonsalade van gember en radijsjes en een mirindressing op basis van dashi en sojasaus.",
       "url": "https://dagelijksekost.vrt.be/gerechten/tempura-van-hondshaai-met-daikonsalade-en-mirindressing",
@@ -1829,7 +1952,7 @@
       "description": "Tempura van hondshaai van Jeroen Meus met een knapperige daikonsalade van gember en radijsjes en een mirindressing op basis van dashi en sojasaus."
     },
     {
-      "id": "dk-020",
+      "id": "dk-021",
       "source": "Dagelijkse Kost",
       "name": "Quinoa tabouleh van Jeroen Meus met gebakken Berloumi en een relish van rode paprika en chili op warm flatbread.",
       "url": "https://dagelijksekost.vrt.be/gerechten/quinoa-tabouleh-met-berloumi-en-relish-van-paprika-en-chili",
@@ -1958,7 +2081,7 @@
       "description": "Quinoa tabouleh van Jeroen Meus met gebakken Berloumi en een relish van rode paprika en chili op warm flatbread."
     },
     {
-      "id": "dk-021",
+      "id": "dk-022",
       "source": "Dagelijkse Kost",
       "name": "Ontdek hoe Jeroen Meus een klassieke rosbief bereidt met romige béarnaisesaus, verse asperges en knapperige gebakken aardappelen. Dit feestelijke recept voor 4 personen is perfect voor een speciale gelegenheid.",
       "url": "https://dagelijksekost.vrt.be/gerechten/rosbief-met-bearnaise-asperges-en-gebakken-aardappelen",
@@ -2077,7 +2200,7 @@
       "description": "Ontdek hoe Jeroen Meus een klassieke rosbief bereidt met romige béarnaisesaus, verse asperges en knapperige gebakken aardappelen. Dit feestelijke recept voor 4 personen is perfect voor een speciale gelegenheid."
     },
     {
-      "id": "dk-022",
+      "id": "dk-023",
       "source": "Dagelijkse Kost",
       "name": "Maak een heerlijke chocoladebiscuit met amarenakersen en mascarpone, een recept van Jeroen Meus. Perfect voor een feestelijke gelegenheid!",
       "url": "https://dagelijksekost.vrt.be/gerechten/chocoladebiscuit-met-amarenakers-en-mascarpone",
@@ -2170,7 +2293,7 @@
       "description": "Maak een heerlijke chocoladebiscuit met amarenakersen en mascarpone, een recept van Jeroen Meus. Perfect voor een feestelijke gelegenheid!"
     },
     {
-      "id": "dk-023",
+      "id": "dk-024",
       "source": "Dagelijkse Kost",
       "name": "Jeroen Meus tovert een verfijnde vichysoise van postelein op tafel, geserveerd met knapperige crackers belegd met cottage cheese en gerookte haring. Een fris en smaakvol gerecht voor 4 personen, perfect voor een zonnige dag!",
       "url": "https://dagelijksekost.vrt.be/gerechten/vichysoise-van-postelein-en-crackers-met-cottage-cheese-en-gerookte-haring",
@@ -2262,7 +2385,7 @@
       "description": "Jeroen Meus tovert een verfijnde vichysoise van postelein op tafel, geserveerd met knapperige crackers belegd met cottage cheese en gerookte haring. Een fris en smaakvol gerecht voor 4 personen, perfect voor een zonnige dag!"
     },
     {
-      "id": "dk-024",
+      "id": "dk-025",
       "source": "Dagelijkse Kost",
       "name": "Jeroen Meus tovert met dit smaakvolle recept voor udon noedels met gekarameliseerd gehakt, paksoi en een rijke misobouillon. Afgewerkt met een zachtgekookt eitje en frisse lente-ui, een echte aanrader!",
       "url": "https://dagelijksekost.vrt.be/gerechten/udon-noedels-met-paksoi-gehakt-en-misobouillon",
@@ -2361,127 +2484,6 @@
         }
       ],
       "description": "Jeroen Meus tovert met dit smaakvolle recept voor udon noedels met gekarameliseerd gehakt, paksoi en een rijke misobouillon. Afgewerkt met een zachtgekookt eitje en frisse lente-ui, een echte aanrader!"
-    },
-    {
-      "id": "dk-025",
-      "source": "Dagelijkse Kost",
-      "name": "Jeroen Meus deelt zijn heerlijke recept voor gebakken kippenbillen met romige knolselderpuree en frisse witloofsla. Een smaakvolle maaltijd voor het hele gezin, eenvoudig te bereiden.",
-      "url": "https://dagelijksekost.vrt.be/gerechten/gebakken-kippenbillen-met-knolselderpuree-en-witloofsla",
-      "image": "https://storage.googleapis.com/dagelijkse-kost-prod-public-landscape/recipes/lScRbibmcmCZjJBBXThx/1775822752418_1500x1125?GoogleAccessId=firebase-adminsdk-2hybg%40dagelijkse-kost-prod.iam.gserviceaccount.com&Expires=16725225600&Signature=RP8mux0YlbPe9hR14KGLWd8JPHLGjQHhirmy%2FZ9zhi9g2smJfKkyRX%2B83i6MD8kBYjzcpJlMmFeNa7G56dxTpiWU17VupLGmq50wJE3v8U7YAfR9c0Mpu0b53ic8rvzbP9EVwgiBEwhqsopV0FYh0BsYsSBUAvuk4dLfbp18Tz6ZMzsi3D9L8HzOQ1VNrOUKGf2f%2FGYnb6AqVIlfKrkbsE2%2B92p9yMPoM6BZV%2BTStRlRXL1baC%2BWLXosfBqsafe1Q1wlOjC51DYPNiUBpKR7iSO8N8BgW12IMdkbBXO3rcNEq2tGLipL9F4uk1H7Ns4wWiSHU1i1Rca%2B5mn%2B0N0ykw%3D%3D",
-      "cook_time_min": 50,
-      "servings": 4,
-      "tags": [
-        "Gevogelte",
-        "Comfortfood",
-        "Bestel online",
-        "Hoofdgerecht",
-        "Hoofdgerecht",
-        "Belgisch"
-      ],
-      "dietary": [],
-      "cuisine": null,
-      "contains": [
-        "egg"
-      ],
-      "ingredients": [
-        {
-          "name": "kippenbillen",
-          "quantity": "4"
-        },
-        {
-          "name": "kipkruiden",
-          "quantity": ""
-        },
-        {
-          "name": "tijm",
-          "quantity": ""
-        },
-        {
-          "name": "deciliter witte wijn",
-          "quantity": "1"
-        },
-        {
-          "name": "deciliter water",
-          "quantity": "1"
-        },
-        {
-          "name": "eetlepel pickles",
-          "quantity": "4"
-        },
-        {
-          "name": "deciliter room",
-          "quantity": "1"
-        },
-        {
-          "name": "knolselders",
-          "quantity": "500 gram"
-        },
-        {
-          "name": "loskokende aardappelen",
-          "quantity": "500 gram"
-        },
-        {
-          "name": "rozemarijn",
-          "quantity": ""
-        },
-        {
-          "name": "boter",
-          "quantity": ""
-        },
-        {
-          "name": "ei",
-          "quantity": "1"
-        },
-        {
-          "name": "melk",
-          "quantity": ""
-        },
-        {
-          "name": "nootmuskaat",
-          "quantity": ""
-        },
-        {
-          "name": "pijlen witloof",
-          "quantity": "2"
-        },
-        {
-          "name": "sjalot",
-          "quantity": "1"
-        },
-        {
-          "name": "appel",
-          "quantity": "1"
-        },
-        {
-          "name": "bussel bieslook",
-          "quantity": "0,5"
-        },
-        {
-          "name": "olijfolie",
-          "quantity": ""
-        },
-        {
-          "name": "peper",
-          "quantity": ""
-        },
-        {
-          "name": "zout",
-          "quantity": ""
-        },
-        {
-          "name": "olie",
-          "quantity": ""
-        },
-        {
-          "name": "laurierblaadjes",
-          "quantity": ""
-        },
-        {
-          "name": "scheutje azijn",
-          "quantity": "1"
-        }
-      ],
-      "description": "Jeroen Meus deelt zijn heerlijke recept voor gebakken kippenbillen met romige knolselderpuree en frisse witloofsla. Een smaakvolle maaltijd voor het hele gezin, eenvoudig te bereiden."
     },
     {
       "id": "tfk-001",
